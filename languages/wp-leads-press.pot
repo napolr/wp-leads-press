@@ -1,0 +1,3354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-leads-press 1.0.0\n"
+"POT-Creation-Date: 2015-01-27 18:51-0800\n"
+"PO-Revision-Date: 2015-01-27 18:51-0800\n"
+"Last-Translator: \n"
+"Language-Team: WP Leads Press <support@wpleadspress.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../am/admin/class-wc-api-manager-menu.php:62
+#: ../am/admin/class-wc-api-manager-menu.php:66
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ../am/admin/class-wc-api-manager-menu.php:81
+msgid "API License Activation"
+msgstr "API License Activation"
+
+#: ../am/admin/class-wc-api-manager-menu.php:82
+msgid "API License Key"
+msgstr "API License Key"
+
+#: ../am/admin/class-wc-api-manager-menu.php:83
+msgid "API License email"
+msgstr "API License email"
+
+#: ../am/admin/class-wc-api-manager-menu.php:87
+msgid "API License Deactivation"
+msgstr "API License Deactivation"
+
+#: ../am/admin/class-wc-api-manager-menu.php:88
+msgid "Deactivate API License Key"
+msgstr "Deactivate API License Key"
+
+#: ../am/admin/class-wc-api-manager-menu.php:159
+msgid "Plugin activated. "
+msgstr "Plugin activated. "
+
+#: ../am/admin/class-wc-api-manager-menu.php:165
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr "Connection failed to the License Key API server. Try again later."
+
+#: ../am/admin/class-wc-api-manager-menu.php:240
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+
+#: ../am/admin/class-wc-api-manager-menu.php:279
+msgid "Plugin license deactivated. "
+msgstr "Plugin license deactivated. "
+
+#: ../am/admin/class-wc-api-manager-menu.php:348
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr "Deactivates an API License Key so it can be used on another blog."
+
+#: ../am/classes/class-wc-plugin-update.php:405
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: ../am/classes/class-wc-plugin-update.php:420
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: ../am/classes/class-wc-plugin-update.php:435
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+
+#: ../am/classes/class-wc-plugin-update.php:450
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: ../am/classes/class-wc-plugin-update.php:465
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+
+#: ../am/classes/class-wc-plugin-update.php:480
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+
+#: ../am/classes/class-wc-plugin-update.php:495
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+
+#: ../am/classes/class-wc-plugin-update.php:510
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: ../am/classes/class-wc-plugin-update.php:525
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+
+#: ../am/classes/class-wc-plugin-update.php:540
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: ../am/classes/class-wc-plugin-update.php:555
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+
+#: ../am/classes/class-wc-plugin-update.php:570
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+
+#: ../classes/sunrise.php:86 ../classes/sunrise.php:87
+#: ../classes/sunrise.php:118 ../classes/sunrise.php:119
+msgid "Plugin Settings"
+msgstr "Plugin Settings"
+
+#: ../classes/sunrise.php:173
+msgid "Choose file"
+msgstr "Choose file"
+
+#: ../classes/sunrise.php:174
+msgid "Use selected file"
+msgstr "Use selected file"
+
+#: ../classes/sunrise.php:364
+msgid "Save changes"
+msgstr "Save changes"
+
+#: ../classes/sunrise.php:364
+msgid "Saving"
+msgstr "Saving"
+
+#: ../classes/sunrise.php:364
+msgid "Saved"
+msgstr "Saved"
+
+#: ../classes/sunrise.php:364
+msgid ""
+"This action will delete all your settings. Are you sure? This action cannot "
+"be undone!"
+msgstr ""
+"This action will delete all your settings. Are you sure? This action cannot "
+"be undone!"
+
+#: ../classes/sunrise.php:364
+msgid "Restore default settings"
+msgstr "Restore default settings"
+
+#: ../classes/sunrise.php:371 ../classes/sunrise.php:440
+msgid "Text field"
+msgstr "Text field"
+
+#: ../classes/sunrise.php:380
+msgid "Textarea field"
+msgstr "Textarea field"
+
+#: ../classes/sunrise.php:390
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: ../classes/sunrise.php:393
+msgid "Label"
+msgstr "Label"
+
+#: ../classes/sunrise.php:401
+msgid "Select"
+msgstr "Select"
+
+#: ../classes/sunrise.php:424 ../classes/sunrise.php:475
+msgid "Checkbox group"
+msgstr "Checkbox group"
+
+#: ../classes/sunrise.php:452
+msgid "Media"
+msgstr "Media"
+
+#: ../classes/sunrise.php:457
+msgid "Open media library"
+msgstr "Open media library"
+
+#: ../classes/sunrise.php:462
+msgid "Color picker"
+msgstr "Color picker"
+
+#: ../classes/sunrise.php:470
+msgid "Pick a color"
+msgstr "Pick a color"
+
+#: ../classes/sunrise.php:491
+msgid "HTML field"
+msgstr "HTML field"
+
+#: ../classes/sunrise.php:498
+msgid "Title field"
+msgstr "Title field"
+
+#: ../classes/sunrise.php:505
+msgid "Image radio"
+msgstr "Image radio"
+
+#: ../classes/sunrise.php:520
+msgid "Size"
+msgstr "Size"
+
+#: ../classes/sunrise.php:558
+msgid ""
+"For full functionality of this page it is reccomended to enable javascript."
+msgstr ""
+"For full functionality of this page it is reccomended to enable javascript."
+
+#: ../classes/sunrise.php:559
+msgid "Settings saved successfully"
+msgstr "Settings saved successfully"
+
+#: ../classes/sunrise.php:560
+msgid "Settings reset successfully"
+msgstr "Settings reset successfully"
+
+#: ../classes/sunrise.php:589
+#, php-format
+msgid "option type %s is not callable"
+msgstr "option type %s is not callable"
+
+#: ../classes/wplp_admin_views_class.php:31
+#, php-format
+msgid "Items deleted: %d"
+msgstr "Items deleted: %d"
+
+#: ../classes/wplp_admin_views_class.php:43
+#, php-format
+msgid "Items edited: %d"
+msgstr "Items edited: %d"
+
+#: ../classes/wplp_list_table_manage_members_class.php:198
+msgid "No items found."
+msgstr "No items found."
+
+#: ../classes/wplp_list_table_manage_members_class.php:325
+msgid "Bulk Actions"
+msgstr "Bulk Actions"
+
+#: ../classes/wplp_list_table_manage_members_class.php:335
+msgid "Apply"
+msgstr "Apply"
+
+#: ../classes/wplp_list_table_manage_members_class.php:419
+msgid "Show all dates"
+msgstr "Show all dates"
+
+#: ../classes/wplp_list_table_manage_members_class.php:432
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: ../classes/wplp_list_table_manage_members_class.php:448
+msgid "List View"
+msgstr "List View"
+
+#: ../classes/wplp_list_table_manage_members_class.php:449
+msgid "Excerpt View"
+msgstr "Excerpt View"
+
+#: ../classes/wplp_list_table_manage_members_class.php:476
+#, php-format
+msgid "%s pending"
+msgstr "%s pending"
+
+#: ../classes/wplp_list_table_manage_members_class.php:731
+msgid "Select All"
+msgstr "Select All"
+
+#: ../classes/wplp_list_table_manage_members_class.php:1444
+msgid " Affiliate ID"
+msgstr " Affiliate ID"
+
+#: ../inc/sunrise/options.php:10
+msgid "WP Leads Press Dashboard"
+msgstr "WP Leads Press Dashboard"
+
+#: ../inc/sunrise/options.php:17
+msgid "Coming Soon!"
+msgstr "Coming Soon!"
+
+#: ../inc/sunrise/options.php:56
+msgid "Lead Settings"
+msgstr "Lead Settings"
+
+#: ../inc/sunrise/options.php:62 ../inc/sunrise/options.php:67
+msgid "Starting Bonus Leads"
+msgstr "Starting Bonus Leads"
+
+#: ../inc/sunrise/options.php:68
+msgid ""
+"Max number of random 'Bonus' leads a user can receive without generating "
+"personal leads. ('0' = UNLIMITED)"
+msgstr ""
+"Max number of random 'Bonus' leads a user can receive without generating "
+"personal leads. ('0' = UNLIMITED)"
+
+#: ../inc/sunrise/options.php:72
+msgid "Starting Leads"
+msgstr "Starting Leads"
+
+#: ../inc/sunrise/options.php:78
+msgid "Select ID's To Receive Random Leads?"
+msgstr "Select ID's To Receive Random Leads?"
+
+#: ../inc/sunrise/options.php:79
+msgid ""
+"If checked only the user ID's entered below will be eligible to receive "
+"random leads. (Optional, leave unchecked to distribute leads/visitors "
+"randomly to all members. "
+msgstr ""
+"If checked only the user ID's entered below will be eligible to receive "
+"random leads. (Optional, leave unchecked to distribute leads/visitors "
+"randomly to all members. "
+
+#: ../inc/sunrise/options.php:83 ../inc/sunrise/options.php:218
+#: ../inc/sunrise/options.php:258 ../inc/sunrise/options.php:339
+#: ../inc/sunrise/options.php:408 ../inc/sunrise/options.php:470
+#: ../inc/sunrise/options.php:531 ../inc/sunrise/options.php:592
+#: ../inc/sunrise/options.php:764 ../inc/sunrise/options.php:777
+#: ../inc/sunrise/options.php:855 ../inc/sunrise/options.php:1126
+#: ../inc/sunrise/options.php:1142 ../inc/sunrise/options.php:1158
+msgid "Yes"
+msgstr "Yes"
+
+#: ../inc/sunrise/options.php:87
+msgid "Enter User ID's"
+msgstr "Enter User ID's"
+
+#: ../inc/sunrise/options.php:88
+msgid "Enter each ID separated by a comma, example, '1,5,7,453'"
+msgstr "Enter each ID separated by a comma, example, '1,5,7,453'"
+
+#: ../inc/sunrise/options.php:95
+msgid "Personally Referred Leads"
+msgstr "Personally Referred Leads"
+
+#: ../inc/sunrise/options.php:100
+msgid "Personal Leads Required"
+msgstr "Personal Leads Required"
+
+#: ../inc/sunrise/options.php:101
+msgid ""
+"How many personally referred leads are required before bonus leads earned? "
+"('0' = OFF)"
+msgstr ""
+"How many personally referred leads are required before bonus leads earned? "
+"('0' = OFF)"
+
+#: ../inc/sunrise/options.php:105
+msgid "leads required"
+msgstr "leads required"
+
+#: ../inc/sunrise/options.php:110 ../inc/sunrise/options.php:136
+#: ../inc/sunrise/options.php:161
+msgid "Bonus Random Leads"
+msgstr "Bonus Random Leads"
+
+#: ../inc/sunrise/options.php:111
+msgid ""
+"Give your users bonus random leads each time they refer the value set in "
+"'Personal Leads Required' setting above. ('0' = OFF)"
+msgstr ""
+"Give your users bonus random leads each time they refer the value set in "
+"'Personal Leads Required' setting above. ('0' = OFF)"
+
+#: ../inc/sunrise/options.php:115 ../inc/sunrise/options.php:141
+#: ../inc/sunrise/options.php:166 ../inc/sunrise/options.php:823
+msgid "Bonus Leads"
+msgstr "Bonus Leads"
+
+#: ../inc/sunrise/options.php:121
+msgid "Personally Referred Members"
+msgstr "Personally Referred Members"
+
+#: ../inc/sunrise/options.php:126 ../inc/sunrise/options.php:808
+msgid "Personal Members Required"
+msgstr "Personal Members Required"
+
+#: ../inc/sunrise/options.php:127
+msgid ""
+"How many personally referred members are required before bonus leads earned? "
+"('0' = OFF)"
+msgstr ""
+"How many personally referred members are required before bonus leads earned? "
+"('0' = OFF)"
+
+#: ../inc/sunrise/options.php:131 ../inc/sunrise/options.php:813
+msgid "Members required"
+msgstr "Members required"
+
+#: ../inc/sunrise/options.php:137
+msgid ""
+"Give your users bonus random leads each time they refer the value set in "
+"'Personal Members Required' setting above. ('0' = OFF)"
+msgstr ""
+"Give your users bonus random leads each time they refer the value set in "
+"'Personal Members Required' setting above. ('0' = OFF)"
+
+#: ../inc/sunrise/options.php:146
+msgid "Personally Referred Visits"
+msgstr "Personally Referred Visits"
+
+#: ../inc/sunrise/options.php:150
+msgid "Referred Visits Required"
+msgstr "Referred Visits Required"
+
+#: ../inc/sunrise/options.php:151
+msgid ""
+"How many personally referred visits to site are required before bonus leads "
+"earned? ('0' = OFF)"
+msgstr ""
+"How many personally referred visits to site are required before bonus leads "
+"earned? ('0' = OFF)"
+
+#: ../inc/sunrise/options.php:155
+msgid "Visits required"
+msgstr "Visits required"
+
+#: ../inc/sunrise/options.php:162
+msgid ""
+"Give your users bonus random leads each time they refer the value set in "
+"'Referred Visits Required' setting above. ('0' = OFF)"
+msgstr ""
+"Give your users bonus random leads each time they refer the value set in "
+"'Referred Visits Required' setting above. ('0' = OFF)"
+
+#: ../inc/sunrise/options.php:177
+msgid "Override Lead Distribution Rules"
+msgstr "Override Lead Distribution Rules"
+
+#: ../inc/sunrise/options.php:182
+msgid ""
+"<p>If you are sending traffic to your site and would like to distribute it "
+"randomly to all site members who are active with a company or paid company "
+"campaign use \"rotation\" for the referral link: <br /><br />i.e. http://"
+"yoursite.com/landingpage/?ref=rotation<br /><br />Leads and traffic "
+"generated from \"rotation\" traffic source will be randomly given out to "
+"your members, this is mainly used when you have a co-op campaign running for "
+"members and need to distribute leads to them without restrictions set by "
+"normal lead distribution rules set above.<br /><br /></p>"
+msgstr ""
+"<p>If you are sending traffic to your site and would like to distribute it "
+"randomly to all site members who are active with a company or paid company "
+"campaign use \"rotation\" for the referral link: <br /><br />i.e. http://"
+"yoursite.com/landingpage/?ref=rotation<br /><br />Leads and traffic "
+"generated from \"rotation\" traffic source will be randomly given out to "
+"your members, this is mainly used when you have a co-op campaign running for "
+"members and need to distribute leads to them without restrictions set by "
+"normal lead distribution rules set above.<br /><br /></p>"
+
+#: ../inc/sunrise/options.php:203 ../inc/sunrise/options.php:208
+msgid "System Email Settings"
+msgstr "System Email Settings"
+
+#: ../inc/sunrise/options.php:213
+msgid "Use SMTP For Sending Outgoing System and PowerPress Emails?"
+msgstr "Use SMTP For Sending Outgoing System and PowerPress Emails?"
+
+#: ../inc/sunrise/options.php:214
+msgid ""
+"If checked SMTP will be used to send emails. (Optional, however if you have "
+"a large amount of emails going out using SMTP will improve mailing "
+"performance."
+msgstr ""
+"If checked SMTP will be used to send emails. (Optional, however if you have "
+"a large amount of emails going out using SMTP will improve mailing "
+"performance."
+
+#: ../inc/sunrise/options.php:233
+msgid "Hostname"
+msgstr "Hostname"
+
+#: ../inc/sunrise/options.php:234
+msgid ""
+"Hostname of email server, i.e. \"smtp.example.com\", \"mail.example.com"
+"\" (Optional: Specify main and backup SMTP server: \"smtp1.example.com;smtp2."
+"example.com;\" )"
+msgstr ""
+"Hostname of email server, i.e. \"smtp.example.com\", \"mail.example.com"
+"\" (Optional: Specify main and backup SMTP server: \"smtp1.example.com;smtp2."
+"example.com;\" )"
+
+#: ../inc/sunrise/options.php:235
+msgid "smtp.example.com"
+msgstr "smtp.example.com"
+
+#: ../inc/sunrise/options.php:241
+msgid "SMTP Port Number"
+msgstr "SMTP Port Number"
+
+#: ../inc/sunrise/options.php:242
+msgid ""
+"Set the SMTP port number - likely to be 25, 465 or 587, check with your host "
+"for specific settings."
+msgstr ""
+"Set the SMTP port number - likely to be 25, 465 or 587, check with your host "
+"for specific settings."
+
+#: ../inc/sunrise/options.php:246
+msgid "Port Number"
+msgstr "Port Number"
+
+#: ../inc/sunrise/options.php:253
+msgid "SMTP Authentication?"
+msgstr "SMTP Authentication?"
+
+#: ../inc/sunrise/options.php:254
+msgid ""
+"If checked SMTP requires authentication and you must fill out username and "
+"password below."
+msgstr ""
+"If checked SMTP requires authentication and you must fill out username and "
+"password below."
+
+#: ../inc/sunrise/options.php:263
+msgid "SMTP Username"
+msgstr "SMTP Username"
+
+#: ../inc/sunrise/options.php:264
+msgid "Username to use for SMTP authentication, i.e. yourname@example.com"
+msgstr "Username to use for SMTP authentication, i.e. yourname@example.com"
+
+#: ../inc/sunrise/options.php:265
+msgid "yourname@example.com"
+msgstr "yourname@example.com"
+
+#: ../inc/sunrise/options.php:272
+msgid "SMTP Password"
+msgstr "SMTP Password"
+
+#: ../inc/sunrise/options.php:273
+msgid "Password to use for SMTP authentication"
+msgstr "Password to use for SMTP authentication"
+
+#: ../inc/sunrise/options.php:274
+msgid "PASSWORD"
+msgstr "PASSWORD"
+
+#: ../inc/sunrise/options.php:284
+msgid "SMTP Encryption Type"
+msgstr "SMTP Encryption Type"
+
+#: ../inc/sunrise/options.php:285
+msgid "Encryption type, \"tls\" or \"ssl\" accepted"
+msgstr "Encryption type, \"tls\" or \"ssl\" accepted"
+
+#: ../inc/sunrise/options.php:289
+msgid "none"
+msgstr "none"
+
+#: ../inc/sunrise/options.php:293
+msgid "tls"
+msgstr "tls"
+
+#: ../inc/sunrise/options.php:297
+msgid "ssl"
+msgstr "ssl"
+
+#: ../inc/sunrise/options.php:318 ../inc/sunrise/options.php:322
+msgid "System Emails"
+msgstr "System Emails"
+
+#: ../inc/sunrise/options.php:330
+msgid "New Lead Email"
+msgstr "New Lead Email"
+
+#: ../inc/sunrise/options.php:334
+msgid "Send New Lead Email?"
+msgstr "Send New Lead Email?"
+
+#: ../inc/sunrise/options.php:335
+msgid "If checked new lead email will be sent."
+msgstr "If checked new lead email will be sent."
+
+#: ../inc/sunrise/options.php:342 ../inc/sunrise/options.php:411
+#: ../inc/sunrise/options.php:473 ../inc/sunrise/options.php:534
+#: ../inc/sunrise/options.php:595
+msgid "Subject"
+msgstr "Subject"
+
+#: ../inc/sunrise/options.php:343
+msgid "Subject of email sent to new opt-in lead"
+msgstr "Subject of email sent to new opt-in lead"
+
+#: ../inc/sunrise/options.php:344
+msgid ""
+"{LEAD-FIRST-NAME}, Thank you subscribing to learn more about {COMPANY-NAME}."
+msgstr ""
+"{LEAD-FIRST-NAME}, Thank you subscribing to learn more about {COMPANY-NAME}."
+
+#: ../inc/sunrise/options.php:351 ../inc/sunrise/options.php:420
+#: ../inc/sunrise/options.php:482 ../inc/sunrise/options.php:543
+#: ../inc/sunrise/options.php:604
+msgid "Body"
+msgstr "Body"
+
+#: ../inc/sunrise/options.php:353 ../inc/sunrise/options.php:422
+#: ../inc/sunrise/options.php:484 ../inc/sunrise/options.php:545
+#: ../inc/sunrise/options.php:606
+msgid "Body of email, HTML is OK!"
+msgstr "Body of email, HTML is OK!"
+
+#: ../inc/sunrise/options.php:355
+msgid ""
+"{LEAD-FIRST-NAME},\n"
+"\t\t\t\n"
+"\t\t\tThank you for opting in to learn more about {COMPANY-NAME}, join with "
+"your referrer, <a href=\"{CAMPAIGN-DEST-URL}\">click here</a>.\n"
+"\t\t\t\n"
+"\t\t\tVisit our <a href=\"{SITE-URL}\">team website</a> to learn more about "
+"our organization and how you can partner with us to get access to our viral "
+"team building system at no cost to you, just by joining with our team!\n"
+"\t\t\t\n"
+"\t\t\t{UNSUBSCRIBE}"
+msgstr ""
+"{LEAD-FIRST-NAME},\n"
+"\t\t\t\n"
+"\t\t\tThank you for opting in to learn more about {COMPANY-NAME}, join with "
+"your referrer, <a href=\"{CAMPAIGN-DEST-URL}\">click here</a>.\n"
+"\t\t\t\n"
+"\t\t\tVisit our <a href=\"{SITE-URL}\">team website</a> to learn more about "
+"our organization and how you can partner with us to get access to our viral "
+"team building system at no cost to you, just by joining with our team!\n"
+"\t\t\t\n"
+"\t\t\t{UNSUBSCRIBE}"
+
+#: ../inc/sunrise/options.php:371 ../inc/sunrise/options.php:434
+#: ../inc/sunrise/options.php:500 ../inc/sunrise/options.php:559
+#: ../inc/sunrise/options.php:625
+msgid "Replacement Codes"
+msgstr "Replacement Codes"
+
+#: ../inc/sunrise/options.php:375
+msgid ""
+"<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the Referring "
+"Member's Last Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+"Member's email address.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-FIRST-NAME}</strong> : Returns the lead's First "
+"Name.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-LAST-NAME}</strong> : Returns the lead's Last Name."
+"<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-EMAIL}</strong> : Returns the lead email address "
+"used to opt-in.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+"WPLP is installed.<br />\n"
+"\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+"campaign associated with landing page lead was generated on.<br />\n"
+"\t\t\t\t\t\t<strong>{CAMPAIGN-DEST-URL}</strong> : Returns Referring "
+"Member's destination URL of Campaign, if set in their Lead Dashboard.<br />\n"
+"\t\t\t\t\t\t<strong>{LANDING-PAGE}</strong> : Returns the landing page URL "
+"lead was generated on. <br />\n"
+"\t\t\t\t\t\t<strong>{UNSUBSCRIBE}</strong> : Returns an unsubscribe link."
+msgstr ""
+"<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the Referring "
+"Member's Last Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+"Member's email address.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-FIRST-NAME}</strong> : Returns the lead's First "
+"Name.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-LAST-NAME}</strong> : Returns the lead's Last Name."
+"<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-EMAIL}</strong> : Returns the lead email address "
+"used to opt-in.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+"WPLP is installed.<br />\n"
+"\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+"campaign associated with landing page lead was generated on.<br />\n"
+"\t\t\t\t\t\t<strong>{CAMPAIGN-DEST-URL}</strong> : Returns Referring "
+"Member's destination URL of Campaign, if set in their Lead Dashboard.<br />\n"
+"\t\t\t\t\t\t<strong>{LANDING-PAGE}</strong> : Returns the landing page URL "
+"lead was generated on. <br />\n"
+"\t\t\t\t\t\t<strong>{UNSUBSCRIBE}</strong> : Returns an unsubscribe link."
+
+#: ../inc/sunrise/options.php:398
+msgid "Member New Lead Email"
+msgstr "Member New Lead Email"
+
+#: ../inc/sunrise/options.php:403
+msgid "Send Member New Lead Email?"
+msgstr "Send Member New Lead Email?"
+
+#: ../inc/sunrise/options.php:404
+msgid "If checked member new lead email will be sent."
+msgstr "If checked member new lead email will be sent."
+
+#: ../inc/sunrise/options.php:412
+msgid "Subject of email sent to Member as opt-in leads are generated"
+msgstr "Subject of email sent to Member as opt-in leads are generated"
+
+#: ../inc/sunrise/options.php:413
+msgid "{REF-MEMBER-FIRST-NAME}, you received a lead!"
+msgstr "{REF-MEMBER-FIRST-NAME}, you received a lead!"
+
+#: ../inc/sunrise/options.php:424
+msgid ""
+"{REF-MEMBER-FIRST-NAME}, you just got a new lead at {SITE-NAME}, <a href="
+"\"{SITE-URL}\">login</a> and contact them now and get them started!"
+msgstr ""
+"{REF-MEMBER-FIRST-NAME}, you just got a new lead at {SITE-NAME}, <a href="
+"\"{SITE-URL}\">login</a> and contact them now and get them started!"
+
+#: ../inc/sunrise/options.php:438
+msgid ""
+"<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the Referring "
+"Member's Last Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+"Member's email address.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-FIRST-NAME}</strong> : Returns the lead's First "
+"Name.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-LAST-NAME}</strong> : Returns the lead's Last Name."
+"<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-EMAIL}</strong> : Returns the lead email address "
+"used to opt-in.<br />\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+"WPLP is installed.<br />\n"
+"\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+"campaign associated with landing page lead was generated on.<br />\n"
+"\t\t\t\t\t\t<strong>{CAMPAIGN-DEST-URL}</strong> : Returns Referring "
+"Member's destination URL of Campaign, if set in their Lead Dashboard.<br />\n"
+"\t\t\t\t\t\t<strong>{LANDING-PAGE}</strong> : Returns the landing page URL "
+"lead was generated on."
+msgstr ""
+"<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the Referring "
+"Member's Last Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+"Member's email address.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-FIRST-NAME}</strong> : Returns the lead's First "
+"Name.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-LAST-NAME}</strong> : Returns the lead's Last Name."
+"<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-EMAIL}</strong> : Returns the lead email address "
+"used to opt-in.<br />\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+"WPLP is installed.<br />\n"
+"\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+"campaign associated with landing page lead was generated on.<br />\n"
+"\t\t\t\t\t\t<strong>{CAMPAIGN-DEST-URL}</strong> : Returns Referring "
+"Member's destination URL of Campaign, if set in their Lead Dashboard.<br />\n"
+"\t\t\t\t\t\t<strong>{LANDING-PAGE}</strong> : Returns the landing page URL "
+"lead was generated on."
+
+#: ../inc/sunrise/options.php:461
+msgid "New Member Welcome Email"
+msgstr "New Member Welcome Email"
+
+#: ../inc/sunrise/options.php:465
+msgid "Send New Member Welcome Email?"
+msgstr "Send New Member Welcome Email?"
+
+#: ../inc/sunrise/options.php:466
+msgid "If checked new member welcome email will be sent."
+msgstr "If checked new member welcome email will be sent."
+
+#: ../inc/sunrise/options.php:474
+msgid "Subject of email sent to new member"
+msgstr "Subject of email sent to new member"
+
+#: ../inc/sunrise/options.php:475
+msgid "{MEMBER-FIRST-NAME}, welcome to the team!"
+msgstr "{MEMBER-FIRST-NAME}, welcome to the team!"
+
+#: ../inc/sunrise/options.php:486
+msgid ""
+"{MEMBER-FIRST-NAME},\n"
+"\t\t\t\n"
+"\t\t\tWelcome to the team! \n"
+"\t\t\t\n"
+"\t\t\tIf you have any questions don't hesitate to contact your referrer, "
+"{REF-MEMBER-EMAIL} for help!"
+msgstr ""
+"{MEMBER-FIRST-NAME},\n"
+"\t\t\t\n"
+"\t\t\tWelcome to the team! \n"
+"\t\t\t\n"
+"\t\t\tIf you have any questions don't hesitate to contact your referrer, "
+"{REF-MEMBER-EMAIL} for help!"
+
+#: ../inc/sunrise/options.php:504
+msgid ""
+"<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the Referring "
+"Member's Last Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+"Member's email address.<br />\n"
+"\t\t\t\t\t\t<strong>{MEMBER-FIRST-NAME}</strong> : Returns the Member's "
+"First Name.<br />\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+"WPLP is installed.<br />\n"
+"\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+"campaign associated with landing page lead was generated on."
+msgstr ""
+"<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the Referring "
+"Member's Last Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+"Member's email address.<br />\n"
+"\t\t\t\t\t\t<strong>{MEMBER-FIRST-NAME}</strong> : Returns the Member's "
+"First Name.<br />\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+"WPLP is installed.<br />\n"
+"\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+"campaign associated with landing page lead was generated on."
+
+#: ../inc/sunrise/options.php:522
+msgid "Lead Upgraded To Member Email"
+msgstr "Lead Upgraded To Member Email"
+
+#: ../inc/sunrise/options.php:526
+msgid "Send Lead Upgraded To Member Email?"
+msgstr "Send Lead Upgraded To Member Email?"
+
+#: ../inc/sunrise/options.php:527
+msgid "If checked lead upgraded to member email will be sent."
+msgstr "If checked lead upgraded to member email will be sent."
+
+#: ../inc/sunrise/options.php:535
+msgid "Subject of email sent to Member as leads upgrade to Member"
+msgstr "Subject of email sent to Member as leads upgrade to Member"
+
+#: ../inc/sunrise/options.php:536
+msgid "{REF-MEMBER-FIRST-NAME}, you just had a lead upgrade to member!"
+msgstr "{REF-MEMBER-FIRST-NAME}, you just had a lead upgrade to member!"
+
+#: ../inc/sunrise/options.php:547
+msgid ""
+"{REF-MEMBER-FIRST-NAME},\n"
+"\t\t\t\n"
+"\t\t\tYou just got a new member at {SITE-NAME}, contact them now and get "
+"them started!"
+msgstr ""
+"{REF-MEMBER-FIRST-NAME,\n"
+"\t\t\t\n"
+"\t\t\tYou just got a new member at {SITE-NAME}, contact them now and get "
+"them started!"
+
+#: ../inc/sunrise/options.php:563
+msgid ""
+"<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the Referring "
+"Member's Last Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+"Member's email address.<br />\n"
+"\t\t\t\t\t\t<strong>{MEMBER-FIRST-NAME}</strong> : Returns the new Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{MEMBER-EMAIL}</strong> : Returns the new Member's "
+"Email. <br />\n"
+"\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+"WPLP is installed.<br />\n"
+"\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+"campaign associated with landing page lead was generated on."
+msgstr ""
+"<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the Referring "
+"Member's Last Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+"Member's email address.<br />\n"
+"\t\t\t\t\t\t<strong>{MEMBER-FIRST-NAME}</strong> : Returns the new Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{MEMBER-EMAIL}</strong> : Returns the new Member's "
+"Email. <br />\n"
+"\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+"WPLP is installed.<br />\n"
+"\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+"campaign associated with landing page lead was generated on."
+
+#: ../inc/sunrise/options.php:583
+msgid "Set Your Affiliate ID Email"
+msgstr "Set Your Affiliate ID Email"
+
+#: ../inc/sunrise/options.php:587
+msgid "Send set your affiliate ID email?"
+msgstr "Send set your affiliate ID email?"
+
+#: ../inc/sunrise/options.php:588
+msgid "If checked set your affiliate ID email will be sent."
+msgstr "If checked set your affiliate ID email will be sent."
+
+#: ../inc/sunrise/options.php:596
+msgid ""
+"Subject of email sent to Member letting them know they missed a lead because "
+"their Affiliate ID is not set in the Lead Dashboard."
+msgstr ""
+"Subject of email sent to Member letting them know they missed a lead because "
+"their Affiliate ID is not set in the Lead Dashboard."
+
+#: ../inc/sunrise/options.php:597
+msgid "{REF-MEMBER-FIRST-NAME}, you just missed a lead!"
+msgstr "{REF-MEMBER-FIRST-NAME}, you just missed a lead!"
+
+#: ../inc/sunrise/options.php:608
+msgid ""
+"{REF-MEMBER-FIRST-NAME},\n"
+"\t\t\t\n"
+"\t\t\tYou would have just received a lead from {SITE-NAME}, you just need to "
+"update your Affiliate ID in your Lead Dashboard at {SITE-URL}. Then visit "
+"the Lead Dashboard to update your Affiliate Settings with your ID for "
+"{COMPANY-NAME} and you will then be eligible to receive leads.\n"
+"\t\t\t\n"
+"\t\t\tHere is your referrer's signup link, {CAMPAIGN-DEST-URL}, use this to "
+"join the {COMPANY-NAME} opportunity.\n"
+"\t\t\t\n"
+"\t\t\tThis is the page you opted in to look at the opportunity, {LANDING-"
+"PAGE}"
+msgstr ""
+"{REF-MEMBER-FIRST-NAME},\n"
+"\t\t\t\n"
+"\t\t\tYou would have just received a lead from {SITE-NAME}, you just need to "
+"update your Affiliate ID in your Lead Dashboard at {SITE-URL}. Then visit "
+"the Lead Dashboard to update your Affiliate Settings with your ID for "
+"{COMPANY-NAME} and you will then be eligible to receive leads.\n"
+"\t\t\t\n"
+"\t\t\tHere is your referrer's signup link, {CAMPAIGN-DEST-URL}, use this to "
+"join the {COMPANY-NAME} opportunity.\n"
+"\t\t\t\n"
+"\t\t\tThis is the page you opted in to look at the opportunity, {LANDING-"
+"PAGE}"
+
+#: ../inc/sunrise/options.php:630
+msgid ""
+"<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the Referring "
+"Member's Last Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+"Member's email address.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-FIRST-NAME}</strong> : Returns the lead's First "
+"Name.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-LAST-NAME}</strong> : Returns the lead's Last Name."
+"<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+"WPLP is installed.<br />\n"
+"\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+"campaign associated with landing page lead was generated on.<br />\n"
+"\t\t\t\t\t\t<strong>{CAMPAIGN-DEST-URL}</strong> : Returns Referring "
+"Member's destination URL of Campaign, if set in their Lead Dashboard.<br />\n"
+"\t\t\t\t\t\t<strong>{LANDING-PAGE}</strong> : Returns the landing page URL "
+"lead was generated on."
+msgstr ""
+"<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+"First Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the Referring "
+"Member's Last Name.<br />\n"
+"\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+"Member's email address.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-FIRST-NAME}</strong> : Returns the lead's First "
+"Name.<br />\n"
+"\t\t\t\t\t\t<strong>{LEAD-LAST-NAME}</strong> : Returns the lead's Last Name."
+"<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+"\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+"WPLP is installed.<br />\n"
+"\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+"campaign associated with landing page lead was generated on.<br />\n"
+"\t\t\t\t\t\t<strong>{CAMPAIGN-DEST-URL}</strong> : Returns Referring "
+"Member's destination URL of Campaign, if set in their Lead Dashboard.<br />\n"
+"\t\t\t\t\t\t<strong>{LANDING-PAGE}</strong> : Returns the landing page URL "
+"lead was generated on."
+
+#: ../inc/sunrise/options.php:661 ../inc/sunrise/options.php:665
+msgid "PowerPress Email Settings"
+msgstr "PowerPress Email Settings"
+
+#: ../inc/sunrise/options.php:684 ../inc/sunrise/options.php:688
+msgid "PowerPress Emails"
+msgstr "PowerPress Emails"
+
+#: ../inc/sunrise/options.php:750
+msgid "Registration Settings"
+msgstr "Registration Settings"
+
+#: ../inc/sunrise/options.php:755
+msgid "Random Registration Settings"
+msgstr "Random Registration Settings"
+
+#: ../inc/sunrise/options.php:759
+msgid "Randoms Members as Top Level?"
+msgstr "Randoms Members as Top Level?"
+
+#: ../inc/sunrise/options.php:760
+msgid ""
+"If checked users who have not been referred by another member will be placed "
+"as top level user in system with no user above them and given the default "
+"user's links for joining programs. This settng overrides the Random "
+"Structured Member Network settings below, if checked."
+msgstr ""
+"If checked users who have not been referred by another member will be placed "
+"as top level user in system with no user above them and given the default "
+"user's links for joining programs. This settng overrides the Random "
+"Structured Member Network settings below, if checked."
+
+#: ../inc/sunrise/options.php:768
+msgid "Random Structured Member Network"
+msgstr "Random Structured Member Network"
+
+#: ../inc/sunrise/options.php:772
+msgid "Use Random Structured Member Network?"
+msgstr "Use Random Structured Member Network?"
+
+#: ../inc/sunrise/options.php:773
+msgid ""
+"If checked users who have not been referred by another member will be placed "
+"under existing members in a structured network based on the value you set "
+"below."
+msgstr ""
+"If checked users who have not been referred by another member will be placed "
+"under existing members in a structured network based on the value you set "
+"below."
+
+#: ../inc/sunrise/options.php:780
+msgid "RSMN Value"
+msgstr "RSMN Value"
+
+#: ../inc/sunrise/options.php:785
+msgid "Random Registrations"
+msgstr "Random Registrations"
+
+#: ../inc/sunrise/options.php:786
+msgid ""
+"This value represents the number of random member registrations each user "
+"will receive from system in a structured network, i.e. a value of 2 would "
+"place two members under each member of site as random traffic registers on "
+"your site. Personally referred members are always given to the member who "
+"referred them, this setting only applies to non-referred site traffic."
+msgstr ""
+"This value represents the number of random member registrations each user "
+"will receive from system in a structured network, i.e. a value of 2 would "
+"place two members under each member of site as random traffic registers on "
+"your site. Personally referred members are always given to the member who "
+"referred them, this setting only applies to non-referred site traffic."
+
+#: ../inc/sunrise/options.php:790
+msgid "Value"
+msgstr "Value"
+
+#: ../inc/sunrise/options.php:803
+msgid "Referred Member Bonus"
+msgstr "Referred Member Bonus"
+
+#: ../inc/sunrise/options.php:809
+msgid ""
+"How many personally referred members are required before bonus members "
+"earned? ('0' = OFF)"
+msgstr ""
+"How many personally referred members are required before bonus members "
+"earned? ('0' = OFF)"
+
+#: ../inc/sunrise/options.php:818
+msgid "Bonus Random Members"
+msgstr "Bonus Random Members"
+
+#: ../inc/sunrise/options.php:819
+msgid ""
+"Give your users bonus random members each time they refer the value set in "
+"'Personal Members Required' setting above. ('0' = OFF)"
+msgstr ""
+"Give your users bonus random members each time they refer the value set in "
+"'Personal Members Required' setting above. ('0' = OFF)"
+
+#: ../inc/sunrise/options.php:829
+msgid "Override Default User"
+msgstr "Override Default User"
+
+#: ../inc/sunrise/options.php:834
+msgid "Default User ID"
+msgstr "Default User ID"
+
+#: ../inc/sunrise/options.php:835
+msgid ""
+"Set this to the User ID #, i.e. \"1\" (default setting), which you want to "
+"show affiliate signup links as the default settings, this is for users who "
+"join as top level members when \"Random Members as Top Level\" is turned on "
+"OR where no user above current user has set their affiliate ID for a company "
+"being promoted, generates signups for default user. This setting accepts "
+"only ONE value, a single ID number."
+msgstr ""
+"Set this to the User ID #, i.e. \"1\" (default setting), which you want to "
+"show affiliate signup links as the default settings, this is for users who "
+"join as top level members when \"Random Members as Top Level\" is turned on "
+"OR where no user above current user has set their affiliate ID for a company "
+"being promoted, generates signups for default user. This setting accepts "
+"only ONE value, a single ID number."
+
+#: ../inc/sunrise/options.php:839
+msgid "User ID#"
+msgstr "User ID#"
+
+#: ../inc/sunrise/options.php:845
+msgid "Registration Code Settings"
+msgstr "Registration Code Settings"
+
+#: ../inc/sunrise/options.php:850
+msgid "Require Code?"
+msgstr "Require Code?"
+
+#: ../inc/sunrise/options.php:851
+msgid ""
+"If checked users will need to enter code in order to register as a member of "
+"your site. Registration Code is not required if you are using a membership "
+"plugin to restrict registration to your site. (NOTE: Code may not work with "
+"all membership plugins, depending on if they change the registration form or "
+"not, if you find your membership plugin does not work, please submit a "
+"support ticket and we will integrate.)"
+msgstr ""
+"If checked users will need to enter code in order to register as a member of "
+"your site. Registration Code is not required if you are using a membership "
+"plugin to restrict registration to your site. (NOTE: Code may not work with "
+"all membership plugins, depending on if they change the registration form or "
+"not, if you find your membership plugin does not work, please submit a "
+"support ticket and we will integrate.)"
+
+#: ../inc/sunrise/options.php:858
+msgid "Registation Code"
+msgstr "Registation Code"
+
+#: ../inc/sunrise/options.php:859
+msgid "Code members must enter when registering."
+msgstr "Code members must enter when registering."
+
+#: ../inc/sunrise/options.php:877
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: ../inc/sunrise/options.php:883
+msgid ""
+"<h2>Shortcodes</h2>\n"
+"\t\t\t\t\t\t<br /><br />\n"
+"\t\t\t\t\t\t<h3>Lead Dashboard</h3>\n"
+"\t\t\t\t\t\t<p>[wplp_dashboard] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />[wplp_dashboard company=\"7,23,75\" override=\"yes\" "
+"homepage=\"no\" network=\"no\"] Custom Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays Lead Dashboard in page for your users, where they "
+"can see their leads, update their tracking ID's for opportunites, get "
+"referral links for landing pages and see what they need to do to earn "
+"additional leads. This is actually the ONLY shortcode you need to setup to "
+"allow your users access to all their leads and associated details.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b> \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />company = ID# of company (optional)\n"
+"\t\t\t\t\t\t<br />override = \"yes\" or \"no\" Used to override hidden "
+"campaigns to display, see below for more detials.(optional, no is default)\n"
+"\t\t\t\t\t\t<br />homepage = \"on\" or \"off\" Used to turn on or off the "
+"display of homepage link in Landing Pages section of dashboard. (optional, "
+"on is default)\n"
+"\t\t\t\t\t\t<br />leads = \"on\" or \"off\" Used to turn on or off the "
+"\"Leads\" tab of dashboard. (optional, on is default)\n"
+"\t\t\t\t\t\t<br />settings = \"on\" or \"off\" Used to turn on or off the "
+"\"Lead Settings\" tab of dashboard. (optional, on is default)\n"
+"\t\t\t\t\t\t<br />landingpages = \"on\" or \"off\" Used to turn on or off "
+"the \"Landing Pages\" tab of dashboard. (optional, on is default)\t\t\t\t\t"
+"\t\n"
+"\t\t\t\t\t\t<br />bonus = \"on\" or \"off\" Used to turn on or off the "
+"\"Bonus\" tab of dashboard. (optional, on is default)\n"
+"\t\t\t\t\t\t<br />network = \"on\" or \"off\" Used to turn on or off the "
+"\"Network\" tab of dashboard. (optional, on is default)\n"
+"\t\t\t\t\t\t<br />emailbuttons = \"on\" or \"off\" Used to turn on or off "
+"the \"Buttons\" for emails in the lead list display. (optional, on is "
+"default)\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />You can select a specific company to display, "
+"[wplp_dashboard company=\"5\"] or if using for membership integration you "
+"can override hidden campaigns and display with [wplp_dashboard company=\"5\" "
+"override=\"yes\"]. <br /><br />For example you have a company which you have "
+"hidden all campaigns to keep private, then are only allowing paid members to "
+"access a page to join a co-op marketing campaign for that company. You would "
+"use the override setting to show the hidden campaigns of that company on the "
+"page, allowing paid users access. <br /><br /> Another option is "
+"[wplp_dashboard homepage=\"no\"], this option turns off the display of the "
+"home page of your site as a landing page in the Landing Page Section of the "
+"dashboard.\n"
+"\t\t\t\t\t\t</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\n"
+"\t\t\t\t\t\t<h3>Campaign Link</h3>\n"
+"\t\t\t\t\t\t<p>[wplp_campaign_link] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />[wplp_campaign_link campaign=\"\" landingpage=\"\" imglink="
+"\"\" textlink=\"\"] Custom Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays link which redirects user to destination URL of "
+"campaign without requiring a name or email. Link can simply be used as "
+"[wplp_campaign_link] or with optional variables set.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Shortcode imglink is automatically set when you create "
+"your landing page, see section below content area of page when creating your "
+"landing pages in WordPress to get the code.</b>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />campaign = ID# of campaign. (Set automatically or can be "
+"overriden)\n"
+"\t\t\t\t\t\t<br />landingpage = ID# of landing page. (Set automatically or "
+"can be overriden)\n"
+"\t\t\t\t\t\t<br />imglink = url of image for link, can be left blank. There "
+"are button images in /assets/images/ in WP Leads Press. Put path to image, i."
+"e. \"/wp-content/plugins/wp-leads-press/assets/images/orange_signupnow.png\" "
+"or to your uploaded image.\n"
+"\t\t\t\t\t\t<br />textlink = text to use as link to landing page set for "
+"campaign, used for creating in-line links on landing pages. Do not set both "
+"an 'imglink' and a 'textlink' at the same time, use separate shortcodes for "
+"each implementation, one image based shortcode per page and multiple text "
+"links can be used.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\n"
+"\t\t\t\t\t\t<h3>Registration Code</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_registration_code] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays code you set, simply makes it easy for you to "
+"insert into a page so that it updates when you change your code, if code is "
+"set to required under 'Registration Settings', this is an optional setting, "
+"but is highly recommended to eliminate site spam users and only allow "
+"members of the opportunity your are promoting to use your team website and "
+"resources.\n"
+"\t\t\t\t\t\t</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\n"
+"\t\t\t\t\t\t<h3>Show Referring Member</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_show_ref_member] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays the referring member display name as selected in "
+"their user profile or a welcome visitor message if no referrer, this can be "
+"edited in /inc/wplp-shortcodes/shortcodes-users.php. We will be adding more "
+"functionality to this shortcode in the future.\n"
+"\t\t\t\t\t\t</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\n"
+"\t\t\t\t\t\t<h3>Lead List</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_lead_list] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t[wplp_lead_list company=\"6,3,9\"] Custom Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays the currently logged in users list of leads. \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b> \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />company = ID# of company (optional)\n"
+"\t\t\t\t\t\t<br />emailbuttons = \"on\" or \"off\" Used to turn on or off "
+"the \"Buttons\" for emails in the lead list display. (optional, on is "
+"default)\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />To use, you can either display all companies or you can "
+"select only specific companies to display, i.e. [wplp_lead_list company="
+"\"5,27,32,1\"] or to display all companies just use the standard code, "
+"[wplp_lead_list]. To get the proper ID for the company, look under Campaigns "
+"Section and use the Company ID# associated with each company you want to "
+"display.</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<h3>Affiliate Settings</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_affiliate_settings] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t[wplp_affilaite_settings company=\"88\" override=\"yes\"]\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />Displays the Affiliate Settings Panel.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b> \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />company = ID# of company (optional)\n"
+"\t\t\t\t\t\t<br />override = Used to override hidden campaigns to display, "
+"see below for more detials. (optional, no is default)\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />To use, you can either display all companies or you can "
+"select only specific companies to display, i.e. [wplp_affiliate_settings "
+"company=\"5,27,32,1\"] or to display all companies just use the standard "
+"code, [wplp_affiliate_settings]. To get the proper ID for the company, look "
+"under Campaigns Section and use the Company ID# associated with each company "
+"you want to display. \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Additionally if you want to show a Company which does not "
+"have an active Campaign you can set as [wplp_affiliate_settings company="
+"\"5\" override=\"yes\"] and the company will show even if it does not have "
+"any active campaigns associated with it, this is a setting specifically for "
+"when integrating with membership plugins.</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\n"
+"\t\t\t\t\t\t<h3>Landing Pages</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_landing_pages] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t[wplp_landing_pages company=\"4\" override=\"yes\" homepage=\"no"
+"\"] Custom Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays available landing pages with currently logged in "
+"users links.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b> \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />company = ID# of company (optional)\n"
+"\t\t\t\t\t\t<br />override = Used to override hidden campaigns to display, "
+"see below for more detials.(optional, no is default)\n"
+"\t\t\t\t\t\t<br />homepage = Used to turn on or off the display of homepage "
+"link in Landing Pages section of dashboard. (optional, yes is default)\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />You can also only show landing pages for specific "
+"companies using [wplp_landing_pages company=\"5,27,32,1\"] or just use the "
+"standard code. \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />To show landing pages of Companies which have no active "
+"campaigns use [wplp_landing_pages company=\"5\" override=\"yes\"], this is a "
+"setting specifically for when integrating with membership plugins.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Another option is [wplp_dashboard homepage=\"no\"], this "
+"option turns off the display of the home page of your site as a landing page."
+"</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<h3>Bonus Leads</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_bonus_leads]\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays the bonus leads and traffic a user has available "
+"and the settings for earning more leads and traffic.</p>\t\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<hr>\n"
+"\n"
+"\t\t\t\t\t\t<h3>Member Network</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_member_network]\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays the logged in users referring member contact "
+"info, their personally referred members contact info and the total number of "
+"members in the users network.</p>\t\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<hr>\n"
+"\n"
+"\t\t\t\t\t\t<h3>Join Links</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_join_links] - Default use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays the logged in users referring member link to join "
+"for each program or the next active member in upline network who is active "
+"in the program if direct referrer is not a member of \"XYZ\" program.</p>\t\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b> \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />company = ID# of company (optional), used to select only "
+"the companies you want to show links for, limiting the returned results.\n"
+"\t\t\t\t\t\t<br />override = Used to override hidden campaigns to display, "
+"see below for more detials.(optional, no is default)\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />To show links to join of company attached to a hidden "
+"campaign, [wplp_join_links company=\"5\" override=\"yes\"], this will show "
+"company id=5 and link to join, overriding the settings for the campaign.\n"
+"\t\t\t\t\t\t<hr>\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t"
+msgstr ""
+"<h2>Shortcodes</h2>\n"
+"\t\t\t\t\t\t<br /><br />\n"
+"\t\t\t\t\t\t<h3>Lead Dashboard</h3>\n"
+"\t\t\t\t\t\t<p>[wplp_dashboard] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />[wplp_dashboard company=\"7,23,75\" override=\"yes\" "
+"homepage=\"no\" network=\"no\"] Custom Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays Lead Dashboard in page for your users, where they "
+"can see their leads, update their tracking ID's for opportunites, get "
+"referral links for landing pages and see what they need to do to earn "
+"additional leads. This is actually the ONLY shortcode you need to setup to "
+"allow your users access to all their leads and associated details.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b> \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />company = ID# of company (optional)\n"
+"\t\t\t\t\t\t<br />override = \"yes\" or \"no\" Used to override hidden "
+"campaigns to display, see below for more detials.(optional, no is default)\n"
+"\t\t\t\t\t\t<br />homepage = \"on\" or \"off\" Used to turn on or off the "
+"display of homepage link in Landing Pages section of dashboard. (optional, "
+"on is default)\n"
+"\t\t\t\t\t\t<br />leads = \"on\" or \"off\" Used to turn on or off the "
+"\"Leads\" tab of dashboard. (optional, on is default)\n"
+"\t\t\t\t\t\t<br />settings = \"on\" or \"off\" Used to turn on or off the "
+"\"Lead Settings\" tab of dashboard. (optional, on is default)\n"
+"\t\t\t\t\t\t<br />landingpages = \"on\" or \"off\" Used to turn on or off "
+"the \"Landing Pages\" tab of dashboard. (optional, on is default)\t\t\t\t\t"
+"\t\n"
+"\t\t\t\t\t\t<br />bonus = \"on\" or \"off\" Used to turn on or off the "
+"\"Bonus\" tab of dashboard. (optional, on is default)\n"
+"\t\t\t\t\t\t<br />network = \"on\" or \"off\" Used to turn on or off the "
+"\"Network\" tab of dashboard. (optional, on is default)\n"
+"\t\t\t\t\t\t<br />emailbuttons = \"on\" or \"off\" Used to turn on or off "
+"the \"Buttons\" for emails in the lead list display. (optional, on is "
+"default)\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />You can select a specific company to display, "
+"[wplp_dashboard company=\"5\"] or if using for membership integration you "
+"can override hidden campaigns and display with [wplp_dashboard company=\"5\" "
+"override=\"yes\"]. <br /><br />For example you have a company which you have "
+"hidden all campaigns to keep private, then are only allowing paid members to "
+"access a page to join a co-op marketing campaign for that company. You would "
+"use the override setting to show the hidden campaigns of that company on the "
+"page, allowing paid users access. <br /><br /> Another option is "
+"[wplp_dashboard homepage=\"no\"], this option turns off the display of the "
+"home page of your site as a landing page in the Landing Page Section of the "
+"dashboard.\n"
+"\t\t\t\t\t\t</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\n"
+"\t\t\t\t\t\t<h3>Campaign Link</h3>\n"
+"\t\t\t\t\t\t<p>[wplp_campaign_link] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />[wplp_campaign_link campaign=\"\" landingpage=\"\" imglink="
+"\"\" textlink=\"\"] Custom Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays link which redirects user to destination URL of "
+"campaign without requiring a name or email. Link can simply be used as "
+"[wplp_campaign_link] or with optional variables set.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Shortcode imglink is automatically set when you create "
+"your landing page, see section below content area of page when creating your "
+"landing pages in WordPress to get the code.</b>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />campaign = ID# of campaign. (Set automatically or can be "
+"overriden)\n"
+"\t\t\t\t\t\t<br />landingpage = ID# of landing page. (Set automatically or "
+"can be overriden)\n"
+"\t\t\t\t\t\t<br />imglink = url of image for link, can be left blank. There "
+"are button images in /assets/images/ in WP Leads Press. Put path to image, i."
+"e. \"/wp-content/plugins/wp-leads-press/assets/images/orange_signupnow.png\" "
+"or to your uploaded image.\n"
+"\t\t\t\t\t\t<br />textlink = text to use as link to landing page set for "
+"campaign, used for creating in-line links on landing pages. Do not set both "
+"an 'imglink' and a 'textlink' at the same time, use separate shortcodes for "
+"each implementation, one image based shortcode per page and multiple text "
+"links can be used.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\n"
+"\t\t\t\t\t\t<h3>Registration Code</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_registration_code] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays code you set, simply makes it easy for you to "
+"insert into a page so that it updates when you change your code, if code is "
+"set to required under 'Registration Settings', this is an optional setting, "
+"but is highly recommended to eliminate site spam users and only allow "
+"members of the opportunity your are promoting to use your team website and "
+"resources.\n"
+"\t\t\t\t\t\t</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\n"
+"\t\t\t\t\t\t<h3>Show Referring Member</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_show_ref_member] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays the referring member display name as selected in "
+"their user profile or a welcome visitor message if no referrer, this can be "
+"edited in /inc/wplp-shortcodes/shortcodes-users.php. We will be adding more "
+"functionality to this shortcode in the future.\n"
+"\t\t\t\t\t\t</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\n"
+"\t\t\t\t\t\t<h3>Lead List</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_lead_list] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t[wplp_lead_list company=\"6,3,9\"] Custom Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays the currently logged in users list of leads. \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b> \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />company = ID# of company (optional)\n"
+"\t\t\t\t\t\t<br />emailbuttons = \"on\" or \"off\" Used to turn on or off "
+"the \"Buttons\" for emails in the lead list display. (optional, on is "
+"default)\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />To use, you can either display all companies or you can "
+"select only specific companies to display, i.e. [wplp_lead_list company="
+"\"5,27,32,1\"] or to display all companies just use the standard code, "
+"[wplp_lead_list]. To get the proper ID for the company, look under Campaigns "
+"Section and use the Company ID# associated with each company you want to "
+"display.</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<h3>Affiliate Settings</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_affiliate_settings] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t[wplp_affilaite_settings company=\"88\" override=\"yes\"]\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />Displays the Affiliate Settings Panel.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b> \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />company = ID# of company (optional)\n"
+"\t\t\t\t\t\t<br />override = Used to override hidden campaigns to display, "
+"see below for more detials. (optional, no is default)\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />To use, you can either display all companies or you can "
+"select only specific companies to display, i.e. [wplp_affiliate_settings "
+"company=\"5,27,32,1\"] or to display all companies just use the standard "
+"code, [wplp_affiliate_settings]. To get the proper ID for the company, look "
+"under Campaigns Section and use the Company ID# associated with each company "
+"you want to display. \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Additionally if you want to show a Company which does not "
+"have an active Campaign you can set as [wplp_affiliate_settings company="
+"\"5\" override=\"yes\"] and the company will show even if it does not have "
+"any active campaigns associated with it, this is a setting specifically for "
+"when integrating with membership plugins.</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\n"
+"\t\t\t\t\t\t<h3>Landing Pages</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_landing_pages] Default Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t[wplp_landing_pages company=\"4\" override=\"yes\" homepage=\"no"
+"\"] Custom Use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays available landing pages with currently logged in "
+"users links.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b> \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />company = ID# of company (optional)\n"
+"\t\t\t\t\t\t<br />override = Used to override hidden campaigns to display, "
+"see below for more detials.(optional, no is default)\n"
+"\t\t\t\t\t\t<br />homepage = Used to turn on or off the display of homepage "
+"link in Landing Pages section of dashboard. (optional, yes is default)\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />You can also only show landing pages for specific "
+"companies using [wplp_landing_pages company=\"5,27,32,1\"] or just use the "
+"standard code. \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />To show landing pages of Companies which have no active "
+"campaigns use [wplp_landing_pages company=\"5\" override=\"yes\"], this is a "
+"setting specifically for when integrating with membership plugins.\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Another option is [wplp_dashboard homepage=\"no\"], this "
+"option turns off the display of the home page of your site as a landing page."
+"</p>\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<hr>\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<h3>Bonus Leads</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_bonus_leads]\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays the bonus leads and traffic a user has available "
+"and the settings for earning more leads and traffic.</p>\t\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<hr>\n"
+"\n"
+"\t\t\t\t\t\t<h3>Member Network</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_member_network]\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays the logged in users referring member contact "
+"info, their personally referred members contact info and the total number of "
+"members in the users network.</p>\t\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<hr>\n"
+"\n"
+"\t\t\t\t\t\t<h3>Join Links</h3>\n"
+"\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t[wplp_join_links] - Default use\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />Displays the logged in users referring member link to join "
+"for each program or the next active member in upline network who is active "
+"in the program if direct referrer is not a member of \"XYZ\" program.</p>\t\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br /><b>Settings</b> \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />company = ID# of company (optional), used to select only "
+"the companies you want to show links for, limiting the returned results.\n"
+"\t\t\t\t\t\t<br />override = Used to override hidden campaigns to display, "
+"see below for more detials.(optional, no is default)\n"
+"\t\t\t\t\t\t<br />\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<br />To show links to join of company attached to a hidden "
+"campaign, [wplp_join_links company=\"5\" override=\"yes\"], this will show "
+"company id=5 and link to join, overriding the settings for the campaign.\n"
+"\t\t\t\t\t\t<hr>\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t"
+
+#: ../inc/sunrise/options.php:1048
+msgid "Membership Plugin Integration"
+msgstr "Membership Plugin Integration"
+
+#: ../inc/sunrise/options.php:1053
+msgid "Membership Plugins"
+msgstr "Membership Plugins"
+
+#: ../inc/sunrise/options.php:1058
+msgid ""
+"<p style=\"width: 900px;\">WPLP can be used with any membership plugin, "
+"simply use WPLP shortcodes on pages which have been secured with a "
+"membership level requirement, per the membership plugin setup. Now you only "
+"give access to members of specific membership levels, paid or free, your "
+"choice, to the lead system.\n"
+"\t\t\t<br /><br />\n"
+"\t\t\tYou can also setup co-op campaigns by creating variations of each "
+"company you are promoting, such as \"CompanyName\", \"CompanyName Pkg 1\", "
+"where pkg 1 is a co-op marketing campaign for that company, which has "
+"campaigns assigned to it only accesible to paid members.\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t<strong>To set up:</strong>\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t1. Create a hidden campaign, with \"CompanyName pkg 1\" (or any other "
+"name you choose) selected for associated company, use \"Add New Company\" "
+"link, on right side of \"add new\" campaign screen when setting up the "
+"campaign to create as normal. \n"
+"\t\t\t<br /><br />We do this because leads can only be received by members "
+"who have joined a specific company and/or variations of companies. This "
+"creates a secondary tracking method for \"CompanyName\", thus separating "
+"memberships between the two, one being free membership \"CompanyName\" the "
+"other requiring payment \"CompanyName Pkg 1\" to receive leads and traffic.\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t2. Create a landing page associated with the campaign.\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t3. Now create pages you only give access to for upgraded membership "
+"with shortcodes showing the hidden campaigns and companies like so:\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t[wplp_dashboard override=\"yes\" company=\"1,2,3,4,\"]\n"
+"\t\t\t<br /><br />\n"
+"\t\t\tThis is a simple way to setup access to co-op's for your members, you "
+"can also use individual shortcodes for each section of the dashboard to "
+"display as desired. The override variable of yes tells the system to "
+"override the hidden campaigns and show them to your user, please see the "
+"shortcode section for more details on each shortcode and usage.\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t4. Send traffic to co-op landing pages using \"rotator\" as referral "
+"link: \n"
+"\t\t\t<br /><br />i.e. http://yoursite.com/landing-page/?ref=rotation\n"
+"\t\t\t<br /><br />\n"
+"\t\t\tleads and traffic will be randomly distributed to ALL members eligible "
+"to receive leads for the company associated with the campaign, regardless of "
+"normal bonus leads and traffic settings. Thus if you sign up members of a "
+"paid company campaign, they will receive an unlimited number of randomly "
+"distributed leads from traffic generated using the \"rotator\" referral "
+"links.</p>"
+msgstr ""
+"<p style=\"width: 900px;\">WPLP can be used with any membership plugin, "
+"simply use WPLP shortcodes on pages which have been secured with a "
+"membership level requirement, per the membership plugin setup. Now you only "
+"give access to members of specific membership levels, paid or free, your "
+"choice, to the lead system.\n"
+"\t\t\t<br /><br />\n"
+"\t\t\tYou can also setup co-op campaigns by creating variations of each "
+"company you are promoting, such as \"CompanyName\", \"CompanyName Pkg 1\", "
+"where pkg 1 is a co-op marketing campaign for that company, which has "
+"campaigns assigned to it only accesible to paid members.\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t<strong>To set up:</strong>\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t1. Create a hidden campaign, with \"CompanyName pkg 1\" (or any other "
+"name you choose) selected for associated company, use \"Add New Company\" "
+"link, on right side of \"add new\" campaign screen when setting up the "
+"campaign to create as normal. \n"
+"\t\t\t<br /><br />We do this because leads can only be received by members "
+"who have joined a specific company and/or variations of companies. This "
+"creates a secondary tracking method for \"CompanyName\", thus separating "
+"memberships between the two, one being free membership \"CompanyName\" the "
+"other requiring payment \"CompanyName Pkg 1\" to receive leads and traffic.\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t2. Create a landing page associated with the campaign.\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t3. Now create pages you only give access to for upgraded membership "
+"with shortcodes showing the hidden campaigns and companies like so:\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t[wplp_dashboard override=\"yes\" company=\"1,2,3,4,\"]\n"
+"\t\t\t<br /><br />\n"
+"\t\t\tThis is a simple way to setup access to co-op's for your members, you "
+"can also use individual shortcodes for each section of the dashboard to "
+"display as desired. The override variable of yes tells the system to "
+"override the hidden campaigns and show them to your user, please see the "
+"shortcode section for more details on each shortcode and usage.\n"
+"\t\t\t<br /><br />\n"
+"\t\t\t4. Send traffic to co-op landing pages using \"rotator\" as referral "
+"link: \n"
+"\t\t\t<br /><br />i.e. http://yoursite.com/landing-page/?ref=rotation\n"
+"\t\t\t<br /><br />\n"
+"\t\t\tleads and traffic will be randomly distributed to ALL members eligible "
+"to receive leads for the company associated with the campaign, regardless of "
+"normal bonus leads and traffic settings. Thus if you sign up members of a "
+"paid company campaign, they will receive an unlimited number of randomly "
+"distributed leads from traffic generated using the \"rotator\" referral "
+"links.</p>"
+
+#: ../inc/sunrise/options.php:1083
+msgid "<hr>"
+msgstr "<hr>"
+
+#: ../inc/sunrise/options.php:1101
+msgid "Affiliate Plugin Integration"
+msgstr "Affiliate Plugin Integration"
+
+#: ../inc/sunrise/options.php:1116
+msgid "Run As Network?"
+msgstr "Run As Network?"
+
+#: ../inc/sunrise/options.php:1118
+msgid ""
+"(Must have Random Structured Member Network turned on in 'Registration "
+"Settings' for this to be active.) If checked members when they register will "
+"have an affiliate cookie set, even if the referrer is not an affiliate, the "
+"system will first look for an affiliate who is below the referring user, if "
+"no member if found then the new member will be treated as being referred "
+"direct by the store/site, in the affiliate system. This will follow the "
+"Random Structured Member Network settings you have set under 'Registration "
+"Settings' in WPLP."
+msgstr ""
+"(Must have Random Structured Member Network turned on in 'Registration "
+"Settings' for this to be active.) If checked members when they register will "
+"have an affiliate cookie set, even if the referrer is not an affiliate, the "
+"system will first look for an affiliate who is below the referring user, if "
+"no member if found then the new member will be treated as being referred "
+"direct by the store/site, in the affiliate system. This will follow the "
+"Random Structured Member Network settings you have set under 'Registration "
+"Settings' in WPLP."
+
+#: ../inc/sunrise/options.php:1132
+msgid "Active Distribution On?"
+msgstr "Active Distribution On?"
+
+#: ../inc/sunrise/options.php:1134
+msgid ""
+"(Must have Random Structured Member Network turned on in 'Registration "
+"Settings' for this to be active.) This setting effects when Run as Network "
+"functions take action. If checked, when a visitor uses a referral link to "
+"site and the referring member is not an affiliate, the system will look for "
+"a member in the referring member's network to set an affiliate cookie for at "
+"the time of the visit, so the referring member will get a cookie set for "
+"WPLP and then another user in their network who is an affiliate will be used "
+"to set the cookie for the affiliate plugin, during the initial visit, rather "
+"than waiting until the user registers on the site, as the 'Affiliates as "
+"Network' setting above does when used with Active Distribution OFF.<br /"
+"><br /> Turning this on may slow down page loads for some servers in "
+"situations where the system needs to look for a member who is an affiliate "
+"and there are a large number of non affiliate members in the system which "
+"must be searched and matched within a user's network.<br /><br />If this "
+"setting is turned off, only during registration will the system look to set "
+"the affiliate cookie and not during a regular site visit. All normal site "
+"visit functions such as setting the WPLP cookies etc remain uneffected by "
+"this setting, only applies to setting cookies for the affiliate plugin."
+msgstr ""
+"(Must have Random Structured Member Network turned on in 'Registration "
+"Settings' for this to be active.) This setting effects when Run as Network "
+"functions take action. If checked, when a visitor uses a referral link to "
+"site and the referring member is not an affiliate, the system will look for "
+"a member in the referring member's network to set an affiliate cookie for at "
+"the time of the visit, so the referring member will get a cookie set for "
+"WPLP and then another user in their network who is an affiliate will be used "
+"to set the cookie for the affiliate plugin, during the initial visit, rather "
+"than waiting until the user registers on the site, as the 'Affiliates as "
+"Network' setting above does when used with Active Distribution OFF.<br /"
+"><br /> Turning this on may slow down page loads for some servers in "
+"situations where the system needs to look for a member who is an affiliate "
+"and there are a large number of non affiliate members in the system which "
+"must be searched and matched within a user's network.<br /><br />If this "
+"setting is turned off, only during registration will the system look to set "
+"the affiliate cookie and not during a regular site visit. All normal site "
+"visit functions such as setting the WPLP cookies etc remain uneffected by "
+"this setting, only applies to setting cookies for the affiliate plugin."
+
+#: ../inc/sunrise/options.php:1148
+msgid "Orphans To Upline Affiliates?"
+msgstr "Orphans To Upline Affiliates?"
+
+#: ../inc/sunrise/options.php:1150
+msgid ""
+"If checked, when a visitor uses a referral link to site and the referring "
+"member is not an affiliate, the system will look for an upline member in the "
+"referring member's network to set the cookie for the affiliate program up to "
+"in the system or give to the store if none is found. First Affiliate found, "
+"upline to the referring member will be given the affiliate referral. So if "
+"both Run As Network and Orphans To Upline Affiliate are selected, the system "
+"will first look for a member in the referring member network, then for an "
+"upline member if non is found below the refering member and that referring "
+"member themselves is not an affliate."
+msgstr ""
+"If checked, when a visitor uses a referral link to site and the referring "
+"member is not an affiliate, the system will look for an upline member in the "
+"referring member's network to set the cookie for the affiliate program up to "
+"in the system or give to the store if none is found. First Affiliate found, "
+"upline to the referring member will be given the affiliate referral. So if "
+"both Run As Network and Orphans To Upline Affiliate are selected, the system "
+"will first look for a member in the referring member network, then for an "
+"upline member if non is found below the refering member and that referring "
+"member themselves is not an affliate."
+
+#: ../inc/wplp-functions/buddypress-functions.php:100
+#: ../inc/wplp-functions/buddypress-functions.php:212
+msgid "Sorry, no members were found."
+msgstr "Sorry, no members were found."
+
+#: ../inc/wplp-functions/create-lead-functions.php:298
+msgid "{LEAD-FIRST-NAME}, thank you for subscribing at {SITE-NAME}!"
+msgstr "{LEAD-FIRST-NAME}, thank you for subscribing at {SITE-NAME}!"
+
+#: ../inc/wplp-functions/create-lead-functions.php:312
+msgid ""
+"{LEAD-FIRST-NAME},\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tThank you for submitting your information at {SITE-NAME} to learn "
+"more about {COMPANY-NAME}, you have been assigned to one of our members, "
+"{REF-MEMBER-FIRST-NAME} {REF-MEMBER-LAST-NAME}, to help you learn more about "
+"the company, don't hesitate to contact them with any questions you may have "
+"at {REF-MEMBER-EMAIL}.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t{SITE-URL}\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t{UNSUBSCRIBE}"
+msgstr ""
+"{LEAD-FIRST-NAME},\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tThank you for submitting your information at {SITE-NAME} to learn "
+"more about {COMPANY-NAME}, you have been assigned to one of our members, "
+"{REF-MEMBER-FIRST-NAME} {REF-MEMBER-LAST-NAME}, to help you learn more about "
+"the company, don't hesitate to contact them with any questions you may have "
+"at {REF-MEMBER-EMAIL}.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t{SITE-URL}\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t{UNSUBSCRIBE}"
+
+#: ../inc/wplp-functions/create-lead-functions.php:359
+msgid "{REF-MEMBER-FIRST-NAME}, you just received a new lead at {SITE-NAME}!"
+msgstr "{REF-MEMBER-FIRST-NAME}, you just received a new lead at {SITE-NAME}!"
+
+#: ../inc/wplp-functions/create-lead-functions.php:373
+msgid ""
+"{REF-MEMBER-FIRST-NAME}, \n"
+"\t\t\t\n"
+"\t\t\t\t\t\tYou just received a new lead at {SITE-NAME} to learn more about "
+"{COMPANY-NAME}, <a href=\"{SITE-URL}\">Login</a> to contact your new lead "
+"and help them get started."
+msgstr ""
+"{REF-MEMBER-FIRST-NAME}, \n"
+"\t\t\t\n"
+"\t\t\t\t\t\tYou just received a new lead at {SITE-NAME} to learn more about "
+"{COMPANY-NAME}, <a href=\"{SITE-URL}\">Login</a> to contact your new lead "
+"and help them get started."
+
+#: ../inc/wplp-functions/create-lead-functions.php:565
+#: ../inc/wplp-functions/create-member-functions.php:561
+#: ../inc/wplp-functions/create-member-functions.php:900
+msgid "rotation"
+msgstr "rotation"
+
+#: ../inc/wplp-functions/create-member-functions.php:51
+msgid "Incorrect Registration Code."
+msgstr "Incorrect Registration Code."
+
+#: ../inc/wplp-functions/create-member-functions.php:95
+msgid "Registration Code (Required)"
+msgstr "Registration Code (Required)"
+
+#: ../inc/wplp-functions/create-member-functions.php:113
+#: ../inc/wplp-functions/create-member-functions.php:125
+msgid "Registration Code"
+msgstr "Registration Code"
+
+#: ../inc/wplp-functions/create-member-functions.php:149
+#: ../inc/wplp-functions/create-member-functions.php:179
+msgid "<strong>ERROR</strong>: You must include the registration code."
+msgstr "<strong>ERROR</strong>: You must include the registration code."
+
+#: ../inc/wplp-functions/create-member-functions.php:157
+#: ../inc/wplp-functions/create-member-functions.php:188
+msgid "<strong>ERROR</strong>: Incorrect Registration Code."
+msgstr "<strong>ERROR</strong>: Incorrect Registration Code."
+
+#: ../inc/wplp-functions/create-member-functions.php:411
+msgid "{MEMBER-FIRST-NAME}, thank you for registering at {SITE-NAME}!"
+msgstr "{MEMBER-FIRST-NAME}, thank you for registering at {SITE-NAME}!"
+
+#: ../inc/wplp-functions/create-member-functions.php:425
+msgid ""
+"{MEMBER-FIRST-NAME}, \n"
+"\t\t\n"
+"\t\t\t\t\tThank you for registering at {SITE-NAME} to learn more about "
+"{COMPANY-NAME}, your referrer is, {REF-MEMBER-FIRST-NAME} {REF-MEMBER-LAST-"
+"NAME}, don't hesitate to contact them with any questions you may have at "
+"{REF-MEMBER-EMAIL}."
+msgstr ""
+"{MEMBER-FIRST-NAME}, \n"
+"\t\t\n"
+"\t\t\t\t\tThank you for registering at {SITE-NAME} to learn more about "
+"{COMPANY-NAME}, your referrer is, {REF-MEMBER-FIRST-NAME} {REF-MEMBER-LAST-"
+"NAME}, don't hesitate to contact them with any questions you may have at "
+"{REF-MEMBER-EMAIL}."
+
+#: ../inc/wplp-functions/create-member-functions.php:489
+msgid ""
+"{REF-MEMBER-FIRST-NAME}, you just had a lead upgrade to member at {SITE-"
+"NAME}!"
+msgstr "{REF-MEMBER-FIRST-NAME}, you just had a lead upgrade to member!"
+
+#: ../inc/wplp-functions/create-member-functions.php:506
+msgid ""
+"{REF-MEMBER-FIRST-NAME}, \n"
+"\t\t\n"
+"\t\t\t\t\tYou just had a lead upgrade to member at {SITE-NAME} as a member "
+"of {COMPANY-NAME}, <a href=\"{SITE-URL}\">Login</a> to contact your new "
+"member and help them get started."
+msgstr ""
+"{REF-MEMBER-FIRST-NAME}, \n"
+"\t\t\n"
+"\t\t\t\t\tYou just had a lead upgrade to member at {SITE-NAME} as a member "
+"of {COMPANY-NAME}, <a href=\"{SITE-URL}\">Login</a> to contact your new "
+"member and help them get started."
+
+#: ../inc/wplp-functions/email-functions.php:78
+msgid "Not Applicable"
+msgstr "Not Applicable"
+
+#: ../inc/wplp-functions/email-functions.php:183
+#: ../inc/wplp-functions/email-functions.php:228
+msgid "{REF-MEMBER-FIRST-NAME}"
+msgstr "{REF-MEMBER-FIRST-NAME}"
+
+#: ../inc/wplp-functions/email-functions.php:184
+#: ../inc/wplp-functions/email-functions.php:229
+msgid "{SITE-NAME}"
+msgstr "{SITE-NAME}"
+
+#: ../inc/wplp-functions/email-functions.php:185
+#: ../inc/wplp-functions/email-functions.php:230
+msgid "{SITE-URL}"
+msgstr "{SITE-URL}"
+
+#: ../inc/wplp-functions/email-functions.php:186
+#: ../inc/wplp-functions/email-functions.php:231
+msgid "{COMPANY-NAME}"
+msgstr "{COMPANY-NAME}"
+
+#: ../inc/wplp-functions/email-functions.php:187
+#: ../inc/wplp-functions/email-functions.php:232
+msgid "{CAMPAIGN-DEST-URL}"
+msgstr "{CAMPAIGN-DEST-URL}"
+
+#: ../inc/wplp-functions/email-functions.php:188
+#: ../inc/wplp-functions/email-functions.php:233
+msgid "{LANDING-PAGE}"
+msgstr "{LANDING-PAGE}"
+
+#: ../inc/wplp-functions/email-functions.php:189
+#: ../inc/wplp-functions/email-functions.php:234
+msgid "{LEAD-FIRST-NAME}"
+msgstr "{LEAD-FIRST-NAME}"
+
+#: ../inc/wplp-functions/email-functions.php:190
+#: ../inc/wplp-functions/email-functions.php:235
+msgid "{REF-MEMBER-EMAIL}"
+msgstr "{REF-MEMBER-EMAIL}"
+
+#: ../inc/wplp-functions/email-functions.php:191
+#: ../inc/wplp-functions/email-functions.php:236
+msgid "{REF-MEMBER-LAST-NAME}"
+msgstr "{REF-MEMBER-LAST-NAME}"
+
+#: ../inc/wplp-functions/email-functions.php:192
+#: ../inc/wplp-functions/email-functions.php:237
+msgid "{LEAD-LAST-NAME}"
+msgstr "{LEAD-LAST-NAME}"
+
+#: ../inc/wplp-functions/email-functions.php:193
+#: ../inc/wplp-functions/email-functions.php:238
+msgid "{MEMBER-FIRST-NAME}"
+msgstr "{REF-MEMBER-FIRST-NAME}"
+
+#: ../inc/wplp-functions/email-functions.php:194
+#: ../inc/wplp-functions/email-functions.php:239
+msgid "{UNSUBSCRIBE}"
+msgstr "{UNSUBSCRIBE}"
+
+#: ../inc/wplp-functions/email-functions.php:195
+#: ../inc/wplp-functions/email-functions.php:240
+msgid "{LEAD-EMAIL}"
+msgstr "{LEAD-EMAIL}"
+
+#: ../inc/wplp-functions/email-functions.php:196
+#: ../inc/wplp-functions/email-functions.php:241
+msgid "{MEMBER-EMAIL}"
+msgstr "{MEMBER-EMAIL}"
+
+#: ../inc/wplp-functions/enqueue-functions.php:54
+msgid "Please enter a valid email address."
+msgstr "Please enter a valid email address."
+
+#: ../inc/wplp-functions/enqueue-functions.php:54
+msgid "<h1>Just a moment</h1><br /><br />Processing your request..."
+msgstr "<h1>Just a moment</h1><br /><br />Processing your request..."
+
+#: ../inc/wplp-functions/enqueue-functions.php:54
+msgid "<h1>Just a moment</h1><br /><br />Deleting Lead..."
+msgstr "<h1>Just a moment</h1><br /><br />Deleting Lead..."
+
+#: ../inc/wplp-functions/enqueue-functions.php:54
+msgid "<h1>Just a moment</h1><br /><br />Loading Lead Details..."
+msgstr "<h1>Just a moment</h1><br /><br />Loading Lead Details..."
+
+#: ../inc/wplp-functions/enqueue-functions.php:54
+msgid "<h1>Just a moment</h1><br /><br />Updating Lead..."
+msgstr "<h1>Just a moment</h1><br /><br />Updating Lead..."
+
+#: ../inc/wplp-functions/enqueue-functions.php:54
+msgid "<h1>Just a moment</h1><br /><br />Updating your settings..."
+msgstr "<h1>Just a moment</h1><br /><br />Updating your settings..."
+
+#: ../inc/wplp-functions/unsubscribe-functions.php:53
+msgid "Your email address has been unsubscribed."
+msgstr "Your email address has been unsubscribed."
+
+#: ../inc/wplp-functions/unsubscribe-functions.php:57
+msgid "The email address submitted is not on our list, please try again."
+msgstr "The email address submitted is not on our list, please try again."
+
+#: ../inc/wplp-functions/user-functions.php:263
+msgid "{REF-MEMBER-FIRST-NAME}, you just missed a lead from {SITE-NAME}!"
+msgstr "{REF-MEMBER-FIRST-NAME}, you just missed a lead from {SITE-NAME}!"
+
+#: ../inc/wplp-functions/user-functions.php:277
+msgid ""
+"{REF-MEMBER-FIRST-NAME}, \n"
+"\t\t\t\t\t\tYou would have just received a lead from {SITE-NAME}, you just "
+"need to update your Affiliate ID in your Lead Dashboard at <a href=\"{SITE-"
+"URL}\">Login</a>.\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\tThen visit the Lead Dashboard to update your Affiliate Settings "
+"with your ID for {COMPANY-NAME} and you will then be eligible to receive "
+"leads."
+msgstr ""
+"{REF-MEMBER-FIRST-NAME}, \n"
+"\t\t\t\t\t\tYou would have just received a lead from {SITE-NAME}, you just "
+"need to update your Affiliate ID in your Lead Dashboard at <a href=\"{SITE-"
+"URL}\">Login</a>.\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\tThen visit the Lead Dashboard to update your Affiliate Settings "
+"with your ID for {COMPANY-NAME} and you will then be eligible to receive "
+"leads."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:10
+msgid "Add New Campaign"
+msgstr "Add New Campaign"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:11
+msgid "Edit Campaign"
+msgstr "Edit Campaign"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:12
+msgid "New Campaign"
+msgstr "New Campaign"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:13
+msgid "All Campaigns"
+msgstr "All Campaigns"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:14
+msgid "View Campaign"
+msgstr "View Campaign"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:15
+msgid "Search Campaigns"
+msgstr "Search Campaigns"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:16
+msgid "No campaigns found"
+msgstr "No campaigns found"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:17
+msgid "No campaigns found in the Trash"
+msgstr "No campaigns found in the Trash"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:52
+#, php-format
+msgid "Campaign updated. <a href=\"%s\">View campaign</a>"
+msgstr "Campaign updated. <a href=\"%s\">View campaign</a>"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:53
+#: ../inc/wplp-functions/wplp-custom-post-types.php:466
+msgid "Custom field updated."
+msgstr "Custom field updated."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:54
+#: ../inc/wplp-functions/wplp-custom-post-types.php:467
+msgid "Custom field deleted."
+msgstr "Custom field deleted."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:55
+msgid "Campaign updated."
+msgstr "Campaign updated."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:56
+#, php-format
+msgid "Campaign restored to revision from %s"
+msgstr "Campaign restored to revision from %s"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:57
+#, php-format
+msgid "Campaign published. <a href=\"%s\">View campaign</a>"
+msgstr "Campaign published. <a href=\"%s\">View campaign</a>"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:58
+msgid "Campaign saved."
+msgstr "Campaign saved."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:59
+#, php-format
+msgid ""
+"Campaign submitted. <a target=\"_blank\" href=\"%s\">Preview campaign</a>"
+msgstr ""
+"Campaign submitted. <a target=\"_blank\" href=\"%s\">Preview campaign</a>"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:60
+#, php-format
+msgid ""
+"Campaign scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview campaign</a>"
+msgstr ""
+"Campaign scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview campaign</a>"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:60
+#: ../inc/wplp-functions/wplp-custom-post-types.php:473
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:61
+#, php-format
+msgid ""
+"Campaign draft updated. <a target=\"_blank\" href=\"%s\">Preview campaign</a>"
+msgstr ""
+"Campaign draft updated. <a target=\"_blank\" href=\"%s\">Preview campaign</a>"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:71
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:237
+msgid "Campaign"
+msgstr "Campaign"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:72
+msgid "ID"
+msgstr "ID"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:73
+#: ../inc/wplp-functions/wplp-custom-post-types.php:490
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:233
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:856
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1232
+msgid "Company"
+msgstr "Company"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:74
+msgid "Company ID"
+msgstr "Company ID"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:75
+msgid "Destination URL"
+msgstr "Destination URL"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:76
+msgid "Show Campaign"
+msgstr "Show Campaign"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:77
+#: ../inc/wplp-functions/wplp-custom-post-types.php:492
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:217
+msgid "Date"
+msgstr "Date"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:115
+#: ../inc/wplp-functions/wplp-custom-post-types.php:139
+msgid "No Companies, you need to create one.wp-leads-press"
+msgstr "No Companies, you need to create one.wp-leads-press"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:152
+msgid "No URL has been set as the destinaiton for the campaign."
+msgstr "No URL has been set as the destinaiton for the campaign."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:169
+msgid "yes"
+msgstr "yes"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:190
+msgid "Search Companies"
+msgstr "Search Companies"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:191
+msgid "All Companies"
+msgstr "All Companies"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:192
+msgid "Parent Companies"
+msgstr "Parent Companies"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:193
+msgid "Parent Company:"
+msgstr "Parent Company:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:194
+msgid "Edit Company"
+msgstr "Edit Company"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:195
+msgid "Update Company"
+msgstr "Update Company"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:196
+msgid "Add New Company"
+msgstr "Add New Company"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:197
+msgid "New Company"
+msgstr "New Company"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:198
+msgid "Companies"
+msgstr "Companies"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:216
+msgid "Campaign Details"
+msgstr "Campaign Details"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:230
+msgid "Destination URL:"
+msgstr "Destination URL:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:236
+msgid ""
+"(Enter URL up to where your affiliate code begins, i.e. thesite.com/, do not "
+"include \"http://www.\")"
+msgstr ""
+"(Enter URL up to where your affiliate code begins, i.e. thesite.com/, do not "
+"include \"http://www.\")"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:237
+msgid ""
+"This is where your leads/traffic are sent after they opt-in or click on a "
+"redirection link."
+msgstr ""
+"This is where your leads/traffic are sent after they opt-in or click on a "
+"redirection link."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:238
+msgid "For subfolder setups: "
+msgstr "For subfolder setups: "
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:238
+msgid ""
+"\"thesite.com/join/?aff=\" OR \"thesite.com/\" OR \"thesite.com?aff=\" etc.\""
+msgstr ""
+"\"thesite.com/join/?aff=\" OR \"thesite.com/\" OR \"thesite.com?aff=\" etc.\""
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:239
+msgid "For sub-domain setups: "
+msgstr "For sub-domain setups: "
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:239
+msgid "\"thesite.com\""
+msgstr "\"thesite.com\""
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:247
+msgid "URL Trailing Value:"
+msgstr "URL Trailing Value:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:253
+#, php-format
+msgid ""
+"(Enter additional URL folders, files etc to be added AFTER the userID in sub-"
+"folder setups, if applicable. Leave blank for 99% of all destination URL "
+"setups, this is for special situations only.)"
+msgstr ""
+"(Enter additional URL folders, files etc to be added AFTER the userID in sub-"
+"folder setups, if applicable. Leave blank for 99% of all destination URL "
+"setups, this is for special situations only.)"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:254
+msgid "For Example: "
+msgstr "For Example: "
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:254
+msgid ""
+"\"Your destination URL is structured like, e.g. www.thesite.com/userID/join."
+"php, and you need the \"/join.php\" added after your userID for the "
+"Affiliate Program.\""
+msgstr ""
+"\"Your destination URL is structured like, e.g. www.thesite.com/userID/join."
+"php, and you need the \"/join.php\" added after your userID for the "
+"Affiliate Program.\""
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:262
+msgid "Is https:"
+msgstr "Is https:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:272
+msgid ""
+"Yes if destination URL is https, i.e. https://thesite.com OR https://userID."
+"thesite.com"
+msgstr ""
+"Yes if destination URL is https, i.e. https://thesite.com OR https://userID."
+"thesite.com"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:282
+msgid "Is Subdomain:"
+msgstr "Is Subdomain:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:292
+msgid "Yes if destination URL is subdomain, i.e. yourID.thesite.com"
+msgstr "Yes if destination URL is subdomain, i.e. yourID.thesite.com"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:299
+msgid "Show Campaign:"
+msgstr "Show Campaign:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:309
+msgid ""
+"Yes if you want to show landing pages associated with campaign in Lead "
+"Dashboard"
+msgstr ""
+"Yes if you want to show landing pages associated with campaign in Lead "
+"Dashboard"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:318
+msgid "Show in Affiliate Settings:"
+msgstr "Show in Affiliate Settings:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:328
+msgid ""
+"Yes if you want to show destination url in Affiliate Settings as link for "
+"new affiliates to register for Company, otherwise set to no."
+msgstr ""
+"Yes if you want to show destination url in Affiliate Settings as link for "
+"new affiliates to register for Company, otherwise set to no."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:418
+msgid "Add New Lead"
+msgstr "Add New Lead"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:419
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:486
+msgid "Edit Lead"
+msgstr "Edit Lead"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:420
+msgid "New Lead"
+msgstr "New Lead"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:421
+msgid "All Leads"
+msgstr "All Leads"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:422
+msgid "View Lead"
+msgstr "View Lead"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:423
+msgid "Search Leads"
+msgstr "Search Leads"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:424
+msgid "No leads found"
+msgstr "No leads found"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:425
+msgid "No leads found in the Trash"
+msgstr "No leads found in the Trash"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:465
+#, php-format
+msgid "Lead updated. <a href=\"%s\">View lead</a>"
+msgstr "Lead updated. <a href=\"%s\">View lead</a>"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:468
+msgid "Lead updated."
+msgstr "Lead updated."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:469
+#, php-format
+msgid "Lead restored to revision from %s"
+msgstr "Lead restored to revision from %s"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:470
+#, php-format
+msgid "Lead published. <a href=\"%s\">View lead</a>"
+msgstr "Lead published. <a href=\"%s\">View lead</a>"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:471
+msgid "Lead saved."
+msgstr "Lead saved."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:472
+#, php-format
+msgid "Lead submitted. <a target=\"_blank\" href=\"%s\">Preview lead</a>"
+msgstr "Lead submitted. <a target=\"_blank\" href=\"%s\">Preview lead</a>"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:473
+#, php-format
+msgid ""
+"Lead scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview lead</a>"
+msgstr ""
+"Lead scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview lead</a>"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:474
+#, php-format
+msgid "Lead draft updated. <a target=\"_blank\" href=\"%s\">Preview lead</a>"
+msgstr "Lead draft updated. <a target=\"_blank\" href=\"%s\">Preview lead</a>"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:483
+msgid "Lead Name"
+msgstr "Lead Name"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:485
+msgid "Lead Owner"
+msgstr "Lead Owner"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:488
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:229
+msgid "Email"
+msgstr "Email"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:489
+msgid "Phone"
+msgstr "Phone"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:491
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:245
+msgid "Lead Status"
+msgstr "Lead Status"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:508
+#: ../inc/wplp-functions/wplp-custom-post-types.php:521
+#: ../inc/wplp-functions/wplp-custom-post-types.php:534
+#: ../inc/wplp-functions/wplp-custom-post-types.php:546
+msgid "Not Provided"
+msgstr "Not Provided"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:558
+msgid "Prior To Tracking"
+msgstr "Prior To Tracking"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:586
+msgid "Not Setwp-leads-press"
+msgstr "Not Setwp-leads-press"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:604
+msgid "Search Statuses"
+msgstr "Search Statuses"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:605
+msgid "All Statuses"
+msgstr "All Statuses"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:606
+msgid "Parent Statuses"
+msgstr "Parent Statuses"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:607
+msgid "Parent Status:"
+msgstr "Parent Status:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:608
+msgid "Edit Status"
+msgstr "Edit Status"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:609
+msgid "Update Status"
+msgstr "Update Status"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:610
+msgid "Add New Status"
+msgstr "Add New Status"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:611
+msgid "New Status"
+msgstr "New Status"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:612
+msgid "Statuses"
+msgstr "Statuses"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:623
+msgid "Subscribed"
+msgstr "Subscribed"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:626
+msgid "Subscribed lead. (DO NOT DELETE!)"
+msgstr "Subscribed lead. (DO NOT DELETE!)"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:632
+msgid "Unsubscribed"
+msgstr "Unsubscribed"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:635
+msgid "Unsubscribed lead. (DO NOT DELETE!)"
+msgstr "Unsubscribed lead. (DO NOT DELETE!)"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:641
+msgid "Member"
+msgstr "Member"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:644
+msgid "Member of site. (DO NOT DELETE!)"
+msgstr "Member of site. (DO NOT DELETE!)"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:654
+msgid "Lead Details"
+msgstr "Lead Details"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:666
+msgid "Lead Owner:"
+msgstr "Lead Owner"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:672
+msgid ""
+"Enter Lead Owner Member ID# to change ownership of a lead to another site "
+"member."
+msgstr ""
+"Enter Lead Owner Member ID# to change ownership of a lead to another site "
+"member."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:682
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:498
+msgid "First Name:"
+msgstr "First Name:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:688
+msgid "Enter Lead First Name"
+msgstr "Enter Lead First Name"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:697
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:517
+msgid "Last Name:"
+msgstr "Last Name:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:703
+msgid "Enter Lead Last Name"
+msgstr "Enter Lead Last Name"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:712
+msgid "Email Address:"
+msgstr "Email Address:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:717
+msgid "Enter Lead Email"
+msgstr "Enter Lead Email"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:726
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:557
+msgid "Phone Number:"
+msgstr "Phone Number:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:731
+msgid "Enter Phone Number"
+msgstr "Enter Phone Number"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:740
+msgid "Lead Notes:"
+msgstr "Lead Notes:"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:745
+msgid "Enter Lead Notes"
+msgstr "Enter Lead Notes"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:846
+msgid "WP Leads Press Landing Page Settings"
+msgstr "WP Leads Press Landing Page Settings"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:876
+msgid "No Campaign Selected"
+msgstr "No Campaign Selected"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:892
+msgid "No campaigns, please create a campaign."
+msgstr "No campaigns, please create a campaign."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:899
+msgid "Select the campaign for landing page."
+msgstr "Select the campaign for landing page."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:900
+msgid ""
+"Visitors of site will be sent to the Destination URL of the campaign "
+"selected after they submit the opt-in form or click on a the redirect link."
+msgstr ""
+"Visitors of site will be sent to the Destination URL of the campaign "
+"selected after they submit the opt-in form or click on a the redirect link."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:906
+msgid "Internal Page Redirect? "
+msgstr "Internal Page Redirect? "
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:921
+msgid ""
+"If you want to send visitor to another page on your site before you send "
+"them to the destination URL of the campaign, enter the relative page "
+"location on your domain. For example, to send to, www.yousite.com/second-"
+"page, enter \"/second-page\"."
+msgstr ""
+"If you want to send visitor to another page on your site before you send "
+"them to the destination URL of the campaign, enter the relative page "
+"location on your domain. For example, to send to, www.yousite.com/second-"
+"page, enter \"/second-page\"."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:922
+msgid ""
+"Set the campaign settings to the same campaign on \"/second-page\" and use a "
+"Campaign Link Shortcode to finally send your visitor to the Destination URL "
+"of the campaign."
+msgstr ""
+"Set the campaign settings to the same campaign on \"/second-page\" and use a "
+"Campaign Link Shortcode to finally send your visitor to the Destination URL "
+"of the campaign."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:928
+msgid "Show Landing Page?"
+msgstr "Show Landing Page?"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:929
+msgid "Select if you want to show this page to your members."
+msgstr "Select if you want to show this page to your members."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:949
+msgid "Show Page: "
+msgstr "Show Page: "
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:959
+msgid "Campaign Opt-in Code"
+msgstr "Campaign Opt-in Code"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:960
+msgid ""
+"Copy and paste the code below into the subscription forms for the landing "
+"page as a standard submit form and customize the styling as needed. WP Leads "
+"Press also works with many third party landing page creation plugins on the "
+"market, which you can use to create your landing pages and then either use "
+"the opt-in code or campaign shortcode below."
+msgstr ""
+"Copy and paste the code below into the subscription forms for the landing "
+"page as a standard submit form and customize the styling as needed. WP Leads "
+"Press also works with many third party landing page creation plugins on the "
+"market, which you can use to create your landing pages and then either use "
+"the opt-in code or campaign shortcode below."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:1007
+msgid ""
+"***The Phone Field is optional and can be removed from the opt-in form if "
+"desired."
+msgstr ""
+"***The Phone Field is optional and can be removed from the opt-in form if "
+"desired."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:1008
+msgid ""
+"NOTICE: If you are inserting the opt-in code into a landing page plugin "
+"system, such as InstaBuilder and the form code doesn't work when submitting "
+"a lead, you will need to manually add your Campaign and Landing Page ID's to "
+"replace the shortcodes [wplp_selected_campaign] and [wplp_landing_page] in "
+"order for your form to work properly after pasting the code into the landing "
+"page plugin system. This is because the other plugin is interferring with "
+"how WP processes shortcodes."
+msgstr ""
+"NOTICE: If you are inserting the opt-in code into a landing page plugin "
+"system, such as InstaBuilder and the form code doesn't work when submitting "
+"a lead, you will need to manually add your Campaign and Landing Page ID's to "
+"replace the shortcodes [wplp_selected_campaign] and [wplp_landing_page] in "
+"order for your form to work properly after pasting the code into the landing "
+"page plugin system. This is because the other plugin is interferring with "
+"how WP processes shortcodes."
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:1009
+msgid "Campaign and Landing Page ID's"
+msgstr "Campaign and Landing Page ID's"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:1010
+msgid "Your Campaign ID: "
+msgstr "Your Campaign ID: "
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:1010
+msgid ""
+"(If you have updated this post already.) or visit the All Campaigns page to "
+"get the ID"
+msgstr ""
+"(If you have updated this post already.) or visit the All Campaigns page to "
+"get the ID"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:1011
+msgid "Landing Page ID: "
+msgstr "Landing Page ID: "
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:1018
+msgid "Campaign Image Link Shortcode"
+msgstr "Campaign Image Link Shortcode"
+
+#: ../inc/wplp-functions/wplp-custom-post-types.php:1019
+msgid ""
+"Use this instead of the form code above if you just want to redirect traffic "
+"and not collect a name and email. This shortcode will create a redirect link "
+"to the correct destination URL of the campaign selected above, just insert "
+"and save. Additional stock images available in the WP Leads Press folder, wp-"
+"leads-press/assets/images/ or you can use any image you desire by providing "
+"the link to the image url."
+msgstr ""
+"Use this instead of the form code above if you just want to redirect traffic "
+"and not collect a name and email. This shortcode will create a redirect link "
+"to the correct destination URL of the campaign selected above, just insert "
+"and save. Additional stock images available in the WP Leads Press folder, wp-"
+"leads-press/assets/images/ or you can use any image you desire by providing "
+"the link to the image url."
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:141
+msgid "You must be logged in to view Lead Dashboard"
+msgstr "You must be logged in to view Lead Dashboard"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:221
+msgid "First Name"
+msgstr "First Name"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:225
+msgid "Last Name"
+msgstr "Last Name"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:241
+msgid "Landing Page"
+msgstr "Landing Page"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:249
+msgid "Actions"
+msgstr "Actions"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:328
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:407
+msgid "Email Lead"
+msgstr "Email Lead"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:487
+msgid "Update information and click Update Lead button."
+msgstr "Update information and click Update Lead button."
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:537
+msgid "Email:"
+msgstr "Email:"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:575
+msgid "Notes:"
+msgstr "Notes:"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:596
+msgid "Campaign:"
+msgstr "Campaign:"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:608
+msgid "Landing Page:"
+msgstr "Landing Page:"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:622
+msgid "Lead Status:"
+msgstr "Lead Status"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:632
+msgid "Update Lead:"
+msgstr "Update Lead:"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:650
+msgid "You must be logged in to view your leads."
+msgstr "You must be logged in to view your leads."
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:856
+msgid "Affiliate ID"
+msgstr "Affiliate ID"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1111
+msgid "Update Affiliate ID Settings:"
+msgstr "Update Affiliate ID Settings:"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1115
+msgid "Update Settings"
+msgstr "Update Settings"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1132
+msgid "You must be logged in to edit your settings."
+msgstr "You must be logged in to edit your settings."
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1501
+msgid "You must be logged in to get your links to join programs."
+msgstr "You must be logged in to get your links to join programs."
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1610
+msgid "Landing Page Links"
+msgstr "Landing Page Links"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1611
+msgid "Send traffic to these links to generate leads and signups."
+msgstr "Send traffic to these links to generate leads and signups."
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1615
+msgid "Home Page Link: "
+msgstr "Home Page Link: "
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1629
+msgid " - Landing Pages"
+msgstr " - Landing Pages"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1630
+msgid "Your Referral Links"
+msgstr "Your Referral Links"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1726
+msgid "You must be logged in to view your landing pages."
+msgstr "You must be logged in to view your landing pages."
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1815
+msgid "Earn More Leads/Visits!"
+msgstr "Earn More Leads/Visits!"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1819
+msgid "Unlimited Bonus Leads"
+msgstr "Unlimited Bonus Leads"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1820
+msgid ""
+"As random traffic comes into the site it is distributed to our members, "
+"there is no limit to the number of random traffic you can receive, turning "
+"into leads, signups or sales."
+msgstr ""
+"As random traffic comes into the site it is distributed to our members, "
+"there is no limit to the number of random traffic you can receive, turning "
+"into leads, signups or sales."
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1827
+msgid "You are not eligible to receive bonus leads."
+msgstr "You are not eligible to receive bonus leads."
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1838
+msgid "We get you started with "
+msgstr "We get you started with "
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1840
+msgid ""
+"Earning bonus leads and traffic is easy, simply use the website, driving "
+"traffic to your landing page links and you will earn bonuses as shown below:"
+msgstr ""
+"Earning bonus leads and traffic is easy, simply use the website, driving "
+"traffic to your landing page links and you will earn bonuses as shown below:"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1850
+msgid "Bonus Earned When You Generate Personal Leads:"
+msgstr "Bonus Earned When You Generate Personal Leads:"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1850
+msgid "Referred Leads Required For Next Bonus: "
+msgstr "Referred Leads Required For Next Bonus: "
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1850
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1856
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1862
+msgid "Bonus Amt: "
+msgstr "Bonus Amt: "
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1856
+msgid "Bonus Earned When You Generate Site Members:"
+msgstr "Bonus Earned When You Generate Site Members:"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1856
+msgid "Referred Members Required For Next Bonus: "
+msgstr "Referred Members Required For Next Bonus: "
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1862
+msgid "Bonus Earned When You Generate Site Visits:"
+msgstr "Bonus Earned When You Generate Site Visits:"
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1862
+msgid "Referred Visits Required For Next Bonus: "
+msgstr "Referred Visits Required For Next Bonus: "
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1873
+msgid "You must be logged in to view your bonus leads and visits."
+msgstr "You must be logged in to view your bonus leads and visits."
+
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1937
+#: ../inc/wplp-shortcodes/shortcodes-leads.php:1941
+msgid "Bonus Leads/Visits Remaining:"
+msgstr "Bonus Leads/Visits Remaining:"
+
+#: ../inc/wplp-shortcodes/shortcodes-users.php:13
+msgid "Send this registration code to your new members: "
+msgstr "Send this registration code to your new members: "
+
+#: ../inc/wplp-shortcodes/shortcodes-users.php:20
+msgid ""
+"You must be logged in to view the registration code. Registration on this "
+"site is by invitation of current members only."
+msgstr ""
+"You must be logged in to view the registration code. Registration on this "
+"site is by invitation of current members only."
+
+#: ../inc/wplp-shortcodes/shortcodes-users.php:46
+#: ../inc/wplp-shortcodes/shortcodes-users.php:68
+msgid "Welcome Visitor"
+msgstr "Welcome Visitor"
+
+#: ../inc/wplp-shortcodes/shortcodes-users.php:59
+msgid "Referred By: "
+msgstr "Referred By: "
+
+#: ../inc/wplp-shortcodes/shortcodes-users.php:100
+msgid "You were not referred by anyone."
+msgstr "You were not referred by anyone."
+
+#: ../inc/wplp-shortcodes/shortcodes-users.php:113
+#: ../inc/wplp-shortcodes/shortcodes-users.php:118
+#: ../inc/wplp-shortcodes/shortcodes-users.php:130
+#: ../inc/wplp-shortcodes/shortcodes-users.php:135
+msgid "Your Referrer: "
+msgstr "Your Referrer: "
+
+#: ../inc/wplp-shortcodes/shortcodes-users.php:114
+#: ../inc/wplp-shortcodes/shortcodes-users.php:131
+#: ../inc/wplp-shortcodes/shortcodes-users.php:136
+msgid "Contact: "
+msgstr "Contact: "
+
+#: ../inc/wplp-shortcodes/shortcodes-users.php:207
+msgid "Your Total Network: "
+msgstr "Your Total Network: "
+
+#: ../inc/wplp-shortcodes/shortcodes-users.php:208
+msgid "Your Personals: "
+msgstr "Your Personals: "
+
+#: ../inc/wplp-shortcodes/shortcodes-users.php:243
+msgid "You have no referred members yet!"
+msgstr "You have no referred members yet!"
+
+#: ../inc/wplp-shortcodes/shortcodes-users.php:255
+msgid "You must be logged in to view your Member Network"
+msgstr "You must be logged in to view your Member Network"
+
+#: ../wp-leads-press.php:143 ../wp-leads-press.php:450
+#: ../wp-leads-press.php:451
+msgid "WP Leads Press"
+msgstr "WP Leads Press"
+
+#: ../wp-leads-press.php:164
+msgid "License Activation"
+msgstr "License Activation"
+
+#: ../wp-leads-press.php:165
+msgid "License Deactivation"
+msgstr "License Deactivation"
+
+#: ../wp-leads-press.php:347
+#, php-format
+msgid ""
+"A WP Leads Press License Key has not been activated on this domain, the "
+"plugin is currently inactive. %sClick here%s to activate a license key on "
+"this domain."
+msgstr ""
+"A WP Leads Press License Key has not been activated on this domain, the "
+"plugin is currently inactive. %sClick here%s to activate a license key on "
+"this domain."
+
+#: ../wp-leads-press.php:461
+msgid "WP Leads Press: Dashboard"
+msgstr " WP Leads Press Dashboard"
+
+#: ../wp-leads-press.php:462
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: ../wp-leads-press.php:479
+msgid "WP Leads Press: Manage Members"
+msgstr "WP Leads Press: Manage Members"
+
+#: ../wp-leads-press.php:480
+msgid "Manage Members"
+msgstr "Manage Members"
+
+#: ../wp-leads-press.php:496
+msgid "WP Leads Press: Settings"
+msgstr "WP Leads Press: Settings"
+
+#: ../wp-leads-press.php:497
+msgid "Settings"
+msgstr "Settings"
+
+#~ msgid "Integration"
+#~ msgstr "Integration"
+
+#~ msgid "Enter Your Affiliate ID('s)"
+#~ msgstr "Enter Your Affiliate ID('s)"
+
+#~ msgid "Enter your Affiliate ID used to track referrals and signups below."
+#~ msgstr "Enter your Affiliate ID used to track referrals and signups below."
+
+#~ msgid "Join Program"
+#~ msgstr "Join Program"
+
+#~ msgid "Join program(s) below."
+#~ msgstr "Join program(s) below."
+
+#~ msgid "Click To Join: "
+#~ msgstr "Click To Join: "
+
+#~ msgid "License Key"
+#~ msgstr "License Key"
+
+#~ msgid ""
+#~ "Your Key is not currently activated, there is an issue with your server "
+#~ "configuration or security settings as your server is sending requests to "
+#~ "our licensing server at an excessive rate and/or with incomplete or "
+#~ "missing data, please check with your webhost for issues such as "
+#~ "\"mod_security\" or other security related issues and try again. If after "
+#~ "checking with your host you still have issues, please contact WPLP "
+#~ "support with your WordPress and cPanel login details for further "
+#~ "investigation."
+#~ msgstr ""
+#~ "Your Key is not currently activated, there is an issue with your server "
+#~ "configuration or security settings as your server is sending requests to "
+#~ "our licensing server at an excessive rate and/or with incomplete or "
+#~ "missing data, please check with your webhost for issues such as "
+#~ "\"mod_security\" or other security related issues and try again. If after "
+#~ "checking with your host you still have issues, please contact WPLP "
+#~ "support with your WordPress and cPanel login details for further "
+#~ "investigation."
+
+#~ msgid "Your Key has not been activated yet"
+#~ msgstr "Your Key has not been activated yet"
+
+#~ msgid "Not an affiliate yet? - Click To Join: "
+#~ msgstr "Not an affiliate yet? - Click To Join: "
+
+#~ msgid ""
+#~ "Hosting Tweak Needed: ionCube loaders are not active on your server, "
+#~ "please contact your host to install ionCube 4.4+ loaders for PHP version: "
+#~ msgstr ""
+#~ "Hosting Tweak Needed: ionCube loaders are not active on your server, "
+#~ "please contact your host to install ionCube 4.4+ loaders for PHP version: "
+
+#~ msgid ""
+#~ "Hosting Tweak Needed: ionCube loaders below version 4.4 are installed on "
+#~ "your server, please contact your host to install ionCube 4.4+ loaders for "
+#~ "PHP version: "
+#~ msgstr ""
+#~ "Hosting Tweak Needed: ionCube loaders below version 4.4 are installed on "
+#~ "your server, please contact your host to install ionCube 4.4+ loaders for "
+#~ "PHP version: "
+
+#~ msgid ""
+#~ "If checked users will need to enter code in order to register as a member "
+#~ "of your site."
+#~ msgstr ""
+#~ "If checked users will need to enter code in order to register as a member "
+#~ "of your site."
+
+#~ msgid ""
+#~ "Enter your Affiliate ID used to track your sales and signups for the "
+#~ "company. If you haven't joined yet, simply click on your referrer's link "
+#~ "next to the company, then enter your affiliate ID after joining."
+#~ msgstr ""
+#~ "Enter your Affiliate ID used to track your sales and signups for the "
+#~ "company. If you haven't joined yet, simply click on your referrer's link "
+#~ "next to the company, then enter your affiliate ID after joining."
+
+#~ msgid "There are no users above you in the system."
+#~ msgstr "There are no users above you in the system."
+
+#~ msgid ""
+#~ "Send traffic to these links to generate leads and signups. Links can be "
+#~ "created for any page on the site with '?ref=username' added to the end, "
+#~ "such as:"
+#~ msgstr ""
+#~ "Send traffic to these links to generate leads and signups. Links can be "
+#~ "created for any page on the site with '?ref=username' added to the end, "
+#~ "such as:"
+
+#~ msgid "SMTP Debug Output Setting"
+#~ msgstr "SMTP Debug Output Setting"
+
+#~ msgid ""
+#~ "0 = off (for production use) 1 = client messages 2 = client and server "
+#~ "messages"
+#~ msgstr ""
+#~ "0 = off (for production use) 1 = client messages 2 = client and server "
+#~ "messages"
+
+#~ msgid "Setting"
+#~ msgstr "Setting"
+
+#~ msgid "Enter your WP Leads Press License Key"
+#~ msgstr "Enter your WP Leads Press License Key"
+
+#~ msgid ""
+#~ "Enter your WP Leads Press License Key, save and refresh settings page to "
+#~ "enable all WPLP settings"
+#~ msgstr ""
+#~ "Enter your WP Leads Press License Key, save and refresh settings page to "
+#~ "enable all WPLP settings"
+
+#~ msgid "We start our members off with "
+#~ msgstr "We start our members off with "
+
+#~ msgid ""
+#~ "<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+#~ "First Name.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the "
+#~ "Referring Member's Last Name.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+#~ "Member's email address.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{MEMBER-FIRST-NAME}</strong> : Returns the Member's "
+#~ "First Name.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+#~ "WPLP is installed.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+#~ "campaign associated with landing page lead was generated on."
+#~ msgstr ""
+#~ "<strong>{REF-MEMBER-FIRST-NAME}</strong> : Returns the Referring Member's "
+#~ "First Name.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{REF-MEMBER-LAST-NAME}</strong> : Returns the "
+#~ "Referring Member's Last Name.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{REF-MEMBER-EMAIL}</strong> : Returns the Referring "
+#~ "Member's email address.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{MEMBER-FIRST-NAME}</strong> : Returns the Member's "
+#~ "First Name.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{SITE-NAME}</strong> : Returns the site name.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{SITE-URL}</strong> : Returns site url address where "
+#~ "WPLP is installed.<br />\n"
+#~ "\t\t\t\t\t\t<strong>{COMPANY-NAME}</strong> : Returns Company Name of "
+#~ "campaign associated with landing page lead was generated on."
+
+#~ msgid "<h1>Just a moment</h1><br /><br />You are being connected now..."
+#~ msgstr "<h1>Just a moment</h1><br /><br />You are being connected now..."
+
+#~ msgid "WP Leads Press: Campaign Code Generator"
+#~ msgstr "WP Leads Press: Campaign Code Generator"
+
+#~ msgid "Edit Your Leads"
+#~ msgstr "Edit Your Leads"
+
+#~ msgid "Lead Updated"
+#~ msgstr "Lead Updated"
+
+#~ msgid "Delete Lead:"
+#~ msgstr "Delete Lead:"
+
+#~ msgid "Manage Your Leads"
+#~ msgstr "Manage Your Leads"
+
+#~ msgid "View, Edit or Delete"
+#~ msgstr "View, Edit or Delete"
+
+#~ msgid "Lead Deleted"
+#~ msgstr "Lead Deleted"
+
+#~ msgid "Lead NOT Deleted"
+#~ msgstr "Lead NOT Deleted"
+
+#~ msgid "View/Edit"
+#~ msgstr "View/Edit"
+
+#~ msgid "Delete Lead"
+#~ msgstr "Delete Lead"
+
+#~ msgid "Settings Updated"
+#~ msgstr "Settings Updated"
+
+#~ msgid "Affiliate ID's"
+#~ msgstr "Affiliate ID's"
+
+#~ msgid "Need To Sign Up? - Your Referrer's Links:"
+#~ msgstr "Need To Sign Up? - Your Referrer's Links:"
+
+#~ msgid "Update Affiliate Settings"
+#~ msgstr "Update Affiliate Settings"
+
+#~ msgid ""
+#~ "We like to get our members started with some bonus leads from our search "
+#~ "engine traffic, use the landing page links under 'Landing Pages' to "
+#~ "generate personal leads in the system from the traffic you send. <br /"
+#~ "><br />***Leads generated from search engine results are distributed "
+#~ "randomly to our members.***"
+#~ msgstr ""
+#~ "We like to get our members started with some bonus leads from our search "
+#~ "engine traffic, use the landing page links under 'Landing Pages' to "
+#~ "generate personal leads in the system from the traffic you send. <br /"
+#~ "><br />***Leads generated from search engine results are distributed "
+#~ "randomly to our members.***"
+
+#~ msgid "Leads"
+#~ msgstr "Leads"
+
+#~ msgid "Earn More!"
+#~ msgstr "Earn More!"
+
+#~ msgid "Author Name"
+#~ msgstr "Author Name"
+
+#~ msgid "Plugin description"
+#~ msgstr "Plugin description"
+
+#~ msgid "Coming Soon! Lead Tracking and More!"
+#~ msgstr "Coming Soon! Lead Tracking and More!"
+
+#~ msgid "Max Random leads"
+#~ msgstr "Max Random leads"
+
+#~ msgid "Personal Leads - Bonus Random Leads"
+#~ msgstr "Personal Leads - Bonus Random Leads"
+
+#~ msgid "Personal Visits - Bonus Random Leads"
+#~ msgstr "Personal Visits - Bonus Random Leads"
+
+#~ msgid "About"
+#~ msgstr "About"
+
+#~ msgid "Standard fields"
+#~ msgstr "Standard fields"
+
+#~ msgid "Text input description"
+#~ msgstr "Text input description"
+
+#~ msgid "Textarea description"
+#~ msgstr "Textarea description"
+
+#~ msgid "Checkbox description"
+#~ msgstr "Checkbox description"
+
+#~ msgid "Checkbox label"
+#~ msgstr "Checkbox label"
